@@ -146,7 +146,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                       </Link> */}
                       <Link to="/about-us">
                         <div className="sideBarItem">
-                          <span> Why Cabana</span>
+                          <span> Why Al Awal</span>
                         </div>
                       </Link>
                       <Link to="/our-location">
@@ -215,7 +215,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         this.props.closeHeader();
                         return;
                       }}
-                    > 
+                    >
                         <>
                          <a href="/trading-instruments">
                           <div className="sideBarItem">Trading Instruments</div>
@@ -305,7 +305,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                             <div className="headerDropDownItem">Promotions not available</div>
                             : null
                         }
-                      
+
                     </div>
                   </HeaderMobileLastDropDown>
                 </>
@@ -375,7 +375,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         </Link>
                         <Link to="/PAMM">
                         <div className="sideBarItem">PAMM Manager</div>
-                        </Link> 
+                        </Link>
                         <Link to="/strategy-manager">
                         <div className="sideBarItem">PAMM Strategy Manager</div>
                         </Link>

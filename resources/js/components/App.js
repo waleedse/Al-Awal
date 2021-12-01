@@ -114,7 +114,7 @@ import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
 
           <Route path="/" exact component={LandingPage}></Route>
 
-          {/* <Route path="/about-us" component={AboutUsPage2}></Route>
+          {/* <Route path="/about-us" component={AboutUsPage2}></Route> */}
           <Route path="/trading-terms" component={TermsAndCondition}></Route>
           <Route path="/account-type" component={AccountTypes}></Route>
           <Route path="/affiliate-program" component={Affiliyate}></Route>
@@ -170,7 +170,7 @@ import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
 
           <Route path="/strategy-manager" component={StrategyManage} />
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
-          <Route path="/refer-terms" component={Terms_Refer} /> */}
+          <Route path="/refer-terms" component={Terms_Refer} />
 
         <Footer />
 

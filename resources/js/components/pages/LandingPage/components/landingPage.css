@@ -294,7 +294,7 @@
 }
 .howPointImage {
   margin: 3px auto;
-  width: 60px;
+  width: 100%;
 }
 
 /* TRADING PLATFORM SECTION CSS */
@@ -487,6 +487,7 @@
 .patnershipText {
   font-size: 18px;
 text-align: justify;
+word-spacing: 0.5px;
 }
 
 /* ALALYTIC SECTION CSS */

@@ -20,7 +20,30 @@ export default class HowItWorks extends Component {
                 <div className="col-md-6">
                 <img
                     className="howPointImage"
-                    src="/assets/images/user.png"
+                    src="/assets/images/pic1.png"
+                    alt="howPointsImage"
+                  ></img>
+                </div>
+                <div className="col-md-6">
+                <img
+                    className="howPointImage"
+                    src="/assets/images/pic2.png"
+                    alt="howPointsImage"
+                  ></img>
+                </div>
+           </div>
+           <div className="row">
+                <div className="col-md-6">
+                <img
+                    className="howPointImage"
+                    src="/assets/images/pic3.png"
+                    alt="howPointsImage"
+                  ></img>
+                </div>
+                <div className="col-md-6">
+                <img
+                    className="howPointImage"
+                    src="/assets/images/pic4.png"
                     alt="howPointsImage"
                   ></img>
                 </div>
