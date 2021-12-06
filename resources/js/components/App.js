@@ -112,7 +112,7 @@ import DefaultPage from "./DefaultPage";
           active={this.state.sideBar}
           closeHeader={this.handleSideBar.bind(this)}
         />
-
+        <Switch>
           <Route path="/" exact component={LandingPage}></Route>
 
           <Route path="/about-us" component={AboutUsPage2}></Route>
@@ -173,7 +173,7 @@ import DefaultPage from "./DefaultPage";
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
           <Route path="/refer-terms" component={Terms_Refer} />
           <Route  component={DefaultPage} />
-
+          </Switch>
         <Footer />
 
       </div>
