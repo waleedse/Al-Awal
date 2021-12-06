@@ -10,26 +10,15 @@ export default class PatnershipPage extends Component {
       <div>
         <HeroSection
           title="INTRODUCING BROKERS"
-          text="Best Commission Plan for IB"
-          bg="introducingbroker.jpg"
+          text="Expand your revenue and business by introducing your clients to us. Our unique Introducing Brokers (IB) program is suitable for Individuals, Corporates, Money Managers, and Webmasters. our IB programe allows organizations and individuals around the world to receive an attractive commission for referring clients, and more the client trades, the more IB's are rewarded.. "
+          bg="ti_bg1.png"
         />
-        <div className=" greyBg basicRow text-center">
-          <h4 className="aboutDetailTitle">What is an Introducing Broker?</h4>
-          <p className="textFont">
-            Expand your revenue and business by introducing your clients to us.
-            Our unique Introducing Brokers (IB) program is suitable for
-            Individuals, Corporates, Money Managers, and Webmasters. our IB
-            programe allows organizations and individuals around the world to
-            receive an attractive commission for referring clients, and more the
-            client trades, the more IB's are rewarded.
+        <div className=" greyBg basicRow text-center py-4" style={{background:'#090d1c'}}>
+          <h4 className="aboutDetailTitle text-light">How It Works?</h4>
+          <p className="textFont text-light">
+          As an Introducer, all you have to do is refer clients to Al Awal Capital and you will be rewarded for it. Each time one of your referred clients makes a trade, you will receive a commission and as long as they keep trading, you keep earning. We have a more formalized program for authorized firms to earn revenue from client introductions to Al Awal Capital. As an IB, you may be an advisory firm seeking the market leading FX platform on which to execute your trade recommendations.
           </p>
-          <h4 className="aboutDetailTitle mt-4">
-            How to become Cabana Capitals IB?
-          </h4>
-          <p className="textFont">
-            You need to introduce minimum of three clients* to be eligible for
-            Cabana Capitals (IB) program.
-          </p>
+
         </div>
         <BenfitsComponent />
         {/* <TradingComponent /> */}

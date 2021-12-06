@@ -7,12 +7,12 @@
     src: url("/fonts/FontsFree-Net-MYRIADPRO-BOLD.ttf");
 }
 .aboutUs2Bg{
-    background-color:#291022 ;
+    background-color:#04434e ;
 
 }
 
 .introSecBg1{
-    background-color: #C70079;
+    background-color: #04434e;
     height: 300px;
     width: 100%;
     justify-content: center;
@@ -44,6 +44,15 @@
     text-align: center;
     color: #fff;
 }
+.textp{
+    font-size: 16px;
+    font-family: gothic;
+
+    text-align: justify;
+    color: #fff;
+    /* padding: 3vw 10vw; */
+    /* text-align-last: center; */
+}
 .introSecBg2 .text{
     font-size: 16px;
     font-family: gothic;
@@ -58,7 +67,7 @@
     width:95%;
     margin: 5vw auto;
     border-radius: 5px;
-    background-color: #ECB6DD;
+    background-color: #04434e;
 }
 .counterSec{
     padding: 0 5vw;
@@ -68,7 +77,7 @@
     font-family: gothic;
     font-weight: 700;
 
-    color: #53123C;
+    color: #04434e;
 }
 .counterSec .text{
     font-size: 0.8rem;
@@ -82,14 +91,14 @@
     font-family: myriad;
     font-weight: bolder;
 
-    color: #53123C;
+    color: #04434e;
 }
 .counterSec .boldText{
     font-size: 1.5rem;
     font-family: myriad;
     font-weight: bold;
 
-    color: #53123C;
+    color: #04434e;
 }
 .growthRow{
     padding: 4.8vw 0;
@@ -154,7 +163,7 @@
     right: 0;
      top:0;
     font: bolder 30rem myriad;
-    color: #53123B;
+    color: #04434e;
 }
 .fixDiv{
     position: fixed;
@@ -163,6 +172,9 @@
    transition: 2s;
 }
 @media (max-width:480px){
+    .guideBg{
+        height: 520px !important;
+    }
     .fixDiv{
         top: 85px !important;
 
@@ -202,19 +214,20 @@
     margin-top: 0px;
 }
 .guideBg{
-    background-image: url("/assets/images/guideBg.png");
+    /* background-image: url("/assets/images/guideBg.png"); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 480px;
     width: 100%;
     text-align: center;
     padding: 3vw 10vw;
     margin-top: 0px;
+    background-color: #04434e;
 }
 .guideTitle2{
     color: #fff;
-    font:bold 1.4rem gothic;
+    font:bold 48px gothic;
 
 }
 .guideTitle{
@@ -226,11 +239,13 @@
     color: #fff;
     font: 0.8rem gothic;
     margin-bottom:20px;
+    text-align: justify;
+    text-align-last: center;
 }
 .guideLunchBtn{
     font: 600 1.2rem gothic;
     color: #fff;
-    background-color:#53123B ;
+    background-color:#04434e ;
     border: none;
     padding: 10px 30px;
 }
@@ -266,7 +281,7 @@
 }
 .tradingNew .btn2{
     font: bold  0.7em gothic;
-    color: #53123B;
+    color: #04434e;
     background-color:#fff ;
     border: none;
     padding: 10px 20px;
@@ -363,6 +378,12 @@
     margin-top:100px;
 
 }
+.titletext{
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
 .mainFlex .item .text{
     font:bolder 1rem gothic;
     margin-bottom:20px
@@ -371,7 +392,7 @@
     transform: scale(1.2);
 }
 .mainFlex .itemActive .text{
-    color: #53123B;
+    color: #04434e;
 
 }
 .shapeTradeBg{
@@ -397,7 +418,7 @@ justify-content: center;
     padding: 5px 10px;
     color: #fff;
     border: none;
-    background-color: #53123B;
+    background-color: #04434e;
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
@@ -420,7 +441,7 @@ justify-content: center;
     }
     .guideTitle2{
 
-        font:bold 1.7rem gothic;
+        font:bold 48px gothic;
 
     }
     .guideTitle{
@@ -430,8 +451,9 @@ justify-content: center;
     }
     .guideText{
 
-        font: 0.8rem gothic;
+        font: 18px gothic;
         margin-bottom:60px;
+        text-align: justify;
     }
     .growthflex{
         display: flex;
@@ -461,7 +483,7 @@ justify-content: center;
         cursor: pointer;
     }
     .growthYearItemActive{
-        background-color: #6E134C;
+        background-color: #04434e;
         width: 100%;
     }
     .growthContentText{
@@ -481,7 +503,7 @@ justify-content: center;
         right: 0;
          top:0;
         font: bolder 30rem myriad;
-        color: #53123B;
+        color: #04434e;
     }
     .growthTitle{
         font: bolder 3.5rem gothic;
@@ -489,7 +511,7 @@ justify-content: center;
         padding-left: 6vw;
     }
     .introSecBg1{
-        background-image: url("/assets/images/bg-1.png");
+        background-image: url("/assets/images/ab_bg1.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -499,7 +521,7 @@ justify-content: center;
     }
     .introSecBg2{
 
-        background-image: url("/assets/images/bg-2.png");
+        background-image: url("/assets/images/ab_bg2.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -529,4 +551,7 @@ justify-content: center;
     .introSecBg2 .text{
         padding: 3vw 15vw;
     }
+    /* .section_padding {
+        padding: 3vw 15vw;
+    } */
 }

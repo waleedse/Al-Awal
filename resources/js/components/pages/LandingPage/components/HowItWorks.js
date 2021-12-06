@@ -17,14 +17,14 @@ export default class HowItWorks extends Component {
               Al Awal Capitals
             </p>
            <div className="row">
-                <div className="col-md-6">
+                <div className="col-md-6 col-sm-6 feature_div">
                 <img
                     className="howPointImage"
                     src="/assets/images/pic1.png"
                     alt="howPointsImage"
                   ></img>
                 </div>
-                <div className="col-md-6">
+                <div className="col-md-6 col-sm-6 feature_div">
                 <img
                     className="howPointImage"
                     src="/assets/images/pic2.png"
@@ -33,14 +33,14 @@ export default class HowItWorks extends Component {
                 </div>
            </div>
            <div className="row">
-                <div className="col-md-6">
+                <div className="col-md-6 feature_div">
                 <img
                     className="howPointImage"
                     src="/assets/images/pic3.png"
                     alt="howPointsImage"
                   ></img>
                 </div>
-                <div className="col-md-6">
+                <div className="col-md-6 feature_div">
                 <img
                     className="howPointImage"
                     src="/assets/images/pic4.png"

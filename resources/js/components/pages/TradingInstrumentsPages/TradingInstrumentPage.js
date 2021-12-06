@@ -45,7 +45,7 @@ export default class TradingInstrumentPage extends Component {
           title="TRADE THE WORLD'S MARKETS"
           text="We offer to a wide range of asset classes, including"
           text2="FX, precious metals and indices"
-          bg="tradinginstrumenbanner.jpg"
+          bg="trading_instrument.png"
         />
         <TradingInstrumentComponent />
         <StepsToOpenAccount />

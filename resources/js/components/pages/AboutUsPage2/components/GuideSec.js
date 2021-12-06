@@ -4,17 +4,19 @@ class GuideSec extends Component {
     render() {
         return (
             <div className="guideBg">
-                <div className="guideTitle2">Educating and Empowering Forex Traders
+                <div className="guideTitle2">Our VAlues
 
 
 </div>
                 <div className="guideTitle">
 
-                    We’re investing in the Forex trader
+                Educating and Empowering Forex Traders
+
 </div>
-                <div className='guideText'>Are you looking for a forex broker who is reliable and trustworthy? If yes, then Cabana Capitals is for your because we believe in transparency, simplicity, and clarity. Unlike other forex brokers, we educate our clients so that they can make the best possible choice at all times. We prioritize our work according to your requirements. We will always be available to assist you, regardless of the complexity of help required.
+                <div className='guideText'>We believe in educating our traders and partners through extensive training programs. We aim to help traders to make positive trading decisions and become world’s safest and undisputed online trading service provider through our passion, dedication, hard work and client-friendly resolutions. Al Awal Capital Limited takes pride in being one of the fastest growing fund management service providers. Our most trusted, positive reputation is your insurance; we will never do anything that will hamper our hard earned reputation to risk. We have already taken great strides in this direction, we assure you that we will serve you with the best of our abilities and make your funds grow steadily.
+
     </div>
-                <button onClick={() => { window.open('https://secure.cabanacapitals.com/register/', '_self') }} className="guideLunchBtn">REGISTER NOW</button>
+                <button onClick={() => { window.open('/', '_self') }} className="guideLunchBtn">REGISTER NOW</button>
             </div>
 
         );

@@ -4,8 +4,7 @@ import { a } from "react-router-dom";
 export default class TradingInstrumentLeft extends Component {
   render() {
     return (
-      <div className="container-fluid">
-        <div className="row tradingInstrumentRow">
+
           <div className="col-md-6 col-sm-12">
             <div className="tradingInfoDiv">
               <h4 className="aboutDetailTitle">{this.props.title}</h4>
@@ -21,16 +20,17 @@ export default class TradingInstrumentLeft extends Component {
               }
 
             </div>
-          </div>
-          <div className="col-md-6 col-sm-12">
+            <div className="text-center">
             <img
               alt="image of instrument sec"
               src={this.props.imgUrl}
               className="tradingInstrumentImg"
             />
+            </div>
           </div>
-        </div>
-      </div>
+
+
+
     );
   }
 }

@@ -3,16 +3,8 @@ import { a } from "react-router-dom";
 export default class TradingInstrumentRight extends Component {
   render() {
     return (
-      <div className="greyBg">
-        <div className="container-fluid">
-          <div className="row tradingInstrumentRow">
-            <div className="col-md-6 col-sm-12">
-              <img
-                alt="image of instrument sec"
-                src={this.props.imgUrl}
-                className="tradingInstrumentImg"
-              />
-            </div>
+
+
 
             <div className="col-md-6 col-sm-12">
               <div className="tradingInfoDiv">
@@ -29,10 +21,16 @@ export default class TradingInstrumentRight extends Component {
                 }
 
               </div>
+              <div className="text-center">
+              <img
+                alt="image of instrument sec"
+                src={this.props.imgUrl}
+                className="tradingInstrumentImg"
+              />
             </div>
-          </div>
-        </div>
-      </div>
+            </div>
+
+
     );
   }
 }

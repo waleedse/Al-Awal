@@ -22,7 +22,7 @@
 }
 .depositeOutlineButton {
   background-color: #fff;
-  border: 1px solid #eb1597;
+  border: 1px solid #090d1c;
   display: inline-block;
   cursor: pointer;
   color: #000;
@@ -33,7 +33,7 @@
   text-decoration: none;
 }
 .depositeOutlineButton:hover {
-  background-color: #eb1597;
+  background-color: #090d1c;
   color: #fff;
 
 }
@@ -51,7 +51,7 @@
   font-size: 1.6rem;
   font-weight: bold;
   padding: 8px 35px;
-  background-image: linear-gradient(to right ,#ef3c99,#500d55);
+  background-image: linear-gradient(to right ,#090d1c,#090d1c);
   color: white;
   border-radius: 30px;
   transition: ease-in 0.1s;
@@ -81,7 +81,7 @@
 
 height: 5px;
 width: 60px;
-background-color: #eb1597;
+background-color: #090d1c;
 margin: 0 auto;
 margin-top: -20px;
 }
@@ -95,7 +95,7 @@ margin-top: -20px;
   padding: 20px 30px;
 }
 .depositButton{
-  background-image:linear-gradient(to right ,#ef3c99,#500d55) ;
+  background-image:linear-gradient(to right ,#090d1ce3,#090d1c) ;
   color: #fff; font-size: 1rem;
   font-weight: bold;
   padding: 7px 20px;
@@ -128,7 +128,7 @@ margin-top: -20px;
   width: 70px;
 }
 .depositCard .title{
-  color: #eb1597;
+  color: #090d1c;
   font-size: 1.5rem;
   font-weight: 600;
   margin-top: 20px;

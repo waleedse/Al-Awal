@@ -59,7 +59,7 @@
    align-items: center;
 }
 .whiteBg{
-    background-image: url("/assets/images/whitelabel.jpg");
+    background-image: url("/assets/images/wt_bg1.png");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +97,7 @@
 }
 .mt4title{
     font-size: 38px;
-    color: #5b0156;
+    color: #090d1c;
     font-weight: bolder;
     text-align: center;
     padding: 30px;
@@ -130,14 +130,14 @@
 }
 .atitle{
     font-size: 48px;
-    color: #5b0156;
+    color: #090d1c;
     font-weight: bolder;
     text-align: center;
     padding: 30px;
 }
 .stitle{
     font-size: 48px;
-    color: #5b0156;
+    color: #090d1c;
     font-weight: bolder;
     text-align: center;
     /* padding: 30px; */
@@ -166,7 +166,7 @@
     margin-left: auto;
 }
 .bt4_bottom{
-    background-color: #5b0156;
+    background-color: #090d1c;
 }
 .card_title_bg{
     background-color: #f7f7f7;
@@ -206,10 +206,10 @@
     background-color: #f9e7f3;
 }
 .card_dark{
-    background-color: #5b0156;
+    background-color: #090d1c;
 }
 .acard_text{
-    color: #5b0156;
+    color: #090d1c;
     font-size: 18px;
     padding: 20px;
 }

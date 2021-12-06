@@ -6,18 +6,12 @@ export default class AboutUsBenifits extends Component {
     return (
       <div className="container-fluid">
         <div className="row aboutDetailRow">
-          <div className="col-md-6 col-sm-12">
-            <img
-              src="/assets/images/aboutUs1.png"
-              className="fitImage aboutBenifitImg"
-              alt="benifit Image"
-            ></img>
-          </div>
+
 
           <div className="col-md-6 col-sm-12">
           <br/><br/>
             <h4 className="aboutDetailTitle mt-5">
-              Your Benefits With Cabana Capitals
+            Your Benefits With Al Awal Capital IB Program
             </h4>
             <br/>
             <p className="aboutDetailText">
@@ -74,6 +68,13 @@ export default class AboutUsBenifits extends Component {
               />
             Be a part of the highest revenue share programs in the market
             </p>
+          </div>
+          <div className="col-md-6 col-sm-12">
+            <img
+              src="/assets/images/ti_bni.png"
+              className="fitImage aboutBenifitImg"
+              alt="benifit Image"
+            ></img>
           </div>
         </div>
       </div>

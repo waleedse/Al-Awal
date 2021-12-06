@@ -55,6 +55,7 @@ import Axios from "axios";
 import StrategyManage from "./pages/PAMM/StrategyManage";
 import Bonus_335per_tc from "./pages/FooterLinkPages/bonus_335per_tc";
 import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
+import DefaultPage from "./DefaultPage";
 
  class App extends Component {
   // state
@@ -114,63 +115,64 @@ import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
 
           <Route path="/" exact component={LandingPage}></Route>
 
-          {/* <Route path="/about-us" component={AboutUsPage2}></Route> */}
+          <Route path="/about-us" component={AboutUsPage2}></Route>
           <Route path="/trading-terms" component={TermsAndCondition}></Route>
-          <Route path="/account-type" component={AccountTypes}></Route>
-          <Route path="/affiliate-program" component={Affiliyate}></Route>
-          <Route
+          {/* <Route path="/account-type" component={AccountTypes}></Route> */}
+          {/* <Route path="/affiliate-program" component={Affiliyate}></Route> */}
+          {/* <Route
             path="/mission-and-values"
             component={MissionAndValues}
-          ></Route>
-          <Route path="/education" exact component={EducationPage}></Route>
-          <Route
+          ></Route> */}
+          {/* <Route path="/education" exact component={EducationPage}></Route> */}
+          {/* <Route
             path="/analytics"
             component={EducationsMetaTrader4}
-          ></Route>
+          ></Route> */}
           <Route
             path="/trading-instruments"
             component={TradingInstrumentPage}
           ></Route>
-          <Route
+          {/* <Route
             path="/trading-currencies"
             component={TradingCurrencisePage}
-          ></Route>
+          ></Route> */}
           <Route path="/introducing-broker" component={PatnershipPage}></Route>
-          <Route path="/negative-balance-protection" component={NegativeBalanceProtection}></Route>
-          <Route path="/reffer-friend" component={Refferafriend}></Route>
-          <Route path="/trading-memory/:id" component={TraidingMemory}></Route>
+          {/* <Route path="/negative-balance-protection" component={NegativeBalanceProtection}></Route> */}
+          {/* <Route path="/reffer-friend" component={Refferafriend}></Route> */}
+          {/* <Route path="/trading-memory/:id" component={TraidingMemory}></Route> */}
 
           <Route path="/white-label" component={WhiteLABEL}></Route>
-          <Route path="/social-trading" component={SocialTrading}></Route>
-          <Route path="/islamic-trading" component={Islamic}></Route>
-          <Route path="/trading-termonology" component={Termonology}></Route>
-          <Route path="/precious-metals" component={PreciousMetals}></Route>
-          <Route path="/cfd-incdices" component={CFDincidies}></Route>
-          <Route path="/comodoties" component={Commodities}></Route>
-          <Route path="/faqs" component={Faq}></Route>
-          <Route path="/protection-funds" component={ProtectionofFunds}></Route>
+          {/* <Route path="/social-trading" component={SocialTrading}></Route> */}
+          {/* <Route path="/islamic-trading" component={Islamic}></Route> */}
+          {/* <Route path="/trading-termonology" component={Termonology}></Route> */}
+          {/* <Route path="/precious-metals" component={PreciousMetals}></Route> */}
+          {/* <Route path="/cfd-incdices" component={CFDincidies}></Route> */}
+          {/* <Route path="/comodoties" component={Commodities}></Route> */}
+          {/* <Route path="/faqs" component={Faq}></Route> */}
+          {/* <Route path="/protection-funds" component={ProtectionofFunds}></Route> */}
 
           <Route path="/mt4-platform" component={Mt4}></Route>
           <Route path="/mt5-platform" component={Mt5}></Route>
-          <Route path="/promotion"  component={PromotionPage}></Route>
-          <Route path="/newPromotion" component={NewPromo35PerB}></Route>
-          <Route path="/platform/mt5" component={PlatformMT5}></Route>
-          <Route path="/PAMM" component={PAMMpage}></Route>
-          <Route path="/our-location" component={OurLocationPage}></Route>
+          {/* <Route path="/promotion"  component={PromotionPage}></Route> */}
+          {/* <Route path="/newPromotion" component={NewPromo35PerB}></Route> */}
+          {/* <Route path="/platform/mt5" component={PlatformMT5}></Route> */}
+          {/* <Route path="/PAMM" component={PAMMpage}></Route> */}
+          {/* <Route path="/our-location" component={OurLocationPage}></Route> */}
           <Route path="/cookie-policy" component={CookiePolicy}></Route>
           <Route path="/regulatory-compliance" component={CompliancePage}></Route>
           <Route path="/privacy-policy" component={PrivacyPolicy}></Route>
           <Route path="/risk-disclouser" component={RiskPage}></Route>
-          <Route path="/instruction-security" component={SafetyOfFunds}></Route>
+          {/* <Route path="/instruction-security" component={SafetyOfFunds}></Route> */}
           <Route path="/terms-and-condition" component={TermsAndCondition}></Route>
-          <Route
+          {/* <Route
             path="/deposite-withdraw"
             component={DepositWithdrawPage}
-          ></Route>
+          ></Route> */}
 
-          <Route path="/strategy-manager" component={StrategyManage} />
+          {/* <Route path="/strategy-manager" component={StrategyManage} /> */}
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
           <Route path="/refer-terms" component={Terms_Refer} />
+          <Route  component={DefaultPage} />
 
         <Footer />
 

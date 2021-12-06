@@ -15,8 +15,8 @@ class AboutUsPage2 extends Component {
             <div>
                <IntroSec/>
                <AboutUsCounterSec/>
-               <AboutUsGrowthSec/>
-               <TradeWithCabana />
+               {/* <AboutUsGrowthSec/> */}
+               {/* <TradeWithCabana /> */}
                <GuideSec />
                {/* <TradingPlatformNew /> */}
                <StepsToOpenAccount></StepsToOpenAccount>

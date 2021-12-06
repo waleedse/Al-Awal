@@ -85,8 +85,8 @@ export default class LandingSliderSection extends Component {
               </div>
             </div>
             <div className="container-fluid">
-              <div className="row tradeWithFRow">
-                <div className="col-lg-2 col-md-4 col-sm-6">
+              <div className="row tradeWithFRow pb-4">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -104,7 +104,7 @@ export default class LandingSliderSection extends Component {
                   </div>
                 </div>
 
-                <div className="col-lg-2 col-md-4 col-sm-6">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -122,7 +122,7 @@ to earn highest profits possible
                     </p> */}
                   </div>
                 </div>
-                <div className="col-lg-2 col-md-4 col-sm-6">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div ">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -139,7 +139,7 @@ to earn highest profits possible
                     </p> */}
                   </div>
                 </div>
-                <div className="col-lg-2 col-md-4 col-sm-6">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -159,7 +159,7 @@ not lose more than deposited
                     </p> */}
                   </div>
                 </div>
-                <div className="col-lg-2 col-md-4 col-sm-6">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -178,7 +178,7 @@ to assist you via various contact channels
                     </p> */}
                   </div>
                 </div>
-                <div className="col-lg-2 col-md-4 col-sm-6">
+                <div className="col-lg-2 col-md-4 col-sm-2 feature_div">
                   <div className="tradeFeatureBox">
                     <div className="featureImageCircle">
                       <img
@@ -222,7 +222,7 @@ to assist you via various contact channels
 
 
                     <div className="text-center mt-2">
-                      <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} className="btnDemoAccount">
+                      <button onClick={()=>{ window.open('/','_self')}} className="btnDemoAccount">
                        Open Demo Account
                       </button>
                     </div>

@@ -8,17 +8,15 @@ class WhiteLABEL extends Component {
                 <div className="whiteBg">
                     <div>
                         <div className='title_'><span className='titleLg'>White Label Solutions</span><br /></div>
-                        <div className=' title2'>Customised Forex Trading solutions for your Brokerage Firm</div>
+                        {/* <div className=' title2'>Customised Forex Trading solutions for your Brokerage Firm</div> */}
                     </div>
                 </div>
                 <div className="container  ">
-                    <h1 className="texct-center mt4title">White Label Solutions</h1>
+                    <h1 className="texct-center mt4title">Customised Forex Trading solutions for your Brokerage Firm</h1>
                     <h6 className="acard_text text-center">
-                        It is quite challenging to start your forex brokerage firm right from the very beginning. There are a lot of things that need to be taken into consideration when you want to set out on your venture in the forex market. You need to set time aside to provide training to personnel, create trading platforms and infrastructure that are transparent, safe and secure. On top of all these things, you need to have the right amount of funds to ensure there are no hiccups along the way.<br/><br/>
-
-                        Luckily, Cabana Capitals does all the heavy lifting for you, making the process of starting a forex brokerage firm simple and easy. At Cabana Capitals, you get White Label Solutions for your firm, provided you have the license to accept, hold, and release the funds of your clients.<br/><br/>
-
-                        Cabana Capitals gives you the freedom to use our state-of-the-art trading platforms that are completely supported by us. At the same time, you can use the name of your firm or brand while using our White Label Solutions. We keep our technological services up-to-date at all times. Also, we customize our services according to the requirements of your clients. Whether your clients want to trade CFDs or forex, they can use one of the many instruments we possess at unbelievable prices. Contact us today so that you can make your dream come true!<br/><br/>
+                    Al Awal Capital’s multi-bank liquidity is available to brokers and institutions operating the MetaTrader 5 platforms. We have aggregated multiple liquidity providers into a single feed which is routed directly into the MetaTrader infrastructure.<br/><br/>
+Al Awal Capital can either create an all-inclusive solution such as bridge and liquidity to an existing MetaTrader network, or a White Label solution utilising our existing global server network.<br/><br/>
+By connecting to the Al Awal Capital Liquidity Bridge, MetaTrader 5 brokers can access deep and reliable liquidity from stable and secure price feeds, resulting in better price execution and therefore improved client <br/><br/>
                     </h6>
 
                 </div>

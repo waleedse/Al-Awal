@@ -597,6 +597,18 @@ word-spacing: 0.5px;
 }
 
 @media only screen and (max-width: 480px) {
+    .howPointImage{
+        width: 130px !important;
+    }
+    .feature_div{
+        width: auto !important;
+    }
+    .featureTitle{
+        font-size: 0.7rem !important;
+    }
+    .howItTitle{
+        text-align: center !important;
+    }
     .demoAccountRow{
         margin: 0 !important;
     }
