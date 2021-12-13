@@ -6,9 +6,9 @@ export default class HeaderIem extends Component {
    this. state = {
     activeDropDown: false,
   };
-  
+
  }
- 
+
   dropDownHandler  () {
     this.setState({
       activeDropDown: !this.state.activeDropDown,
@@ -23,6 +23,9 @@ export default class HeaderIem extends Component {
         onMouseEnter={this.dropDownHandler.bind(this)}
         onMouseLeave={this.dropDownHandler.bind(this)}
       >
+
+        <img className="text-center" src={this.props.icon ? this.props.icon : ''}></img>
+        <br/>
         {this.props.title}
         {activeDropDown &&
           React.cloneElement(this.props.children, {

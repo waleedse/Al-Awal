@@ -23,7 +23,7 @@ export default class Footer extends Component {
               </p>
               <div className="footerSocialBox">
                 <div className="footerSocialCircle">
-                    <a href="https://www.facebook.com/CabanaCapitalsDubai/">
+                    <a href="/">
                   <img
                     src="/assets/images/socialIcon1.png"
                     alt="social"
@@ -31,7 +31,7 @@ export default class Footer extends Component {
                   ></img> </a>
                 </div>
                 <div className="footerSocialCircle">
-                <a href="https://twitter.com/cabana_capitals">
+                <a href="/">
                   <img
                     src="/assets/images/socialIcon2.png"
                     alt="social"
@@ -39,7 +39,7 @@ export default class Footer extends Component {
                   ></img> </a>
                 </div>
                 <div className="footerSocialCircle">
-                <a href="https://youtube.com/c/CabanaCapitals">
+                <a href="/">
                   <img
                     src="/assets/images/socialIcon3.png"
                     alt="social"
@@ -78,7 +78,7 @@ export default class Footer extends Component {
             <a href="/terms-and-condition">
               <p className="footerLinkText"> Terms and Conditions</p>
             </a>
-            <a href="https://cabanacapitals.com/pdf/CCL_Term_and_Conditions.pdf" target="_blank"  >
+            <a href="/" target="_blank"  >
             <p className="footerLinkText"> Client Agreement</p>
           </a>
 

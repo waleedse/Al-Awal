@@ -130,14 +130,14 @@
 }
 .atitle{
     font-size: 48px;
-    color: #090d1c;
+    color: #fff;
     font-weight: bolder;
     text-align: center;
     padding: 30px;
 }
 .stitle{
     font-size: 48px;
-    color: #090d1c;
+    color: #fff;
     font-weight: bolder;
     text-align: center;
     /* padding: 30px; */
@@ -293,7 +293,7 @@ color: #fff;
 
 /* open acc */
 .promoOpenAcc{
- background-color: #FCEEF5;
+ background-color: #090d1c;
 
  padding-bottom: 50px;
 }
@@ -305,7 +305,7 @@ color: #fff;
 }
 .promoOpenAcc .contentSec .number{
     font: bolder 100px gothic;
-    color: #C70079;
+    color: #0180f0;
 
 }
 
@@ -347,7 +347,7 @@ color: #fff;
     margin-bottom: 20px;
 }
 .promoOpenAcc .liveAccBtn{
-    background-color: #B41576;
+    background-color: #0094D0;
     color: #fff;
 
 }

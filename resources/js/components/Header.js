@@ -48,31 +48,31 @@ import TradingInstruments from "./HeaderComp/TradingInstruments";
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto mr-4 d-none d-md-flex navItemRow">
 
-                <HeaderIem styles={{borderLeft:'0'}} title="ABOUT US">
+                <HeaderIem styles={{borderLeft:'0'}} title="ABOUT US" icon="https://img.icons8.com/ios/26/ffffff/about.png">
                 <AboutUsDropDown />
                 </HeaderIem>
-              <HeaderIem   title="FX TRADING">
+              <HeaderIem   title="FX TRADING" icon="https://img.icons8.com/dotty/26/ffffff/stocks-growth.png">
                 <AccountDropDown />
               </HeaderIem>
 
               {/* <HeaderIem title="TRADING INSTRUMENTS">
               <TradingInstruments />
               </HeaderIem> */}
-                <HeaderIem title="PARTNERSHIP PROGRAM">
+                <HeaderIem title="PARTNERSHIP PROGRAM" icon="https://img.icons8.com/ios/26/ffffff/handshake.png">
                 <Refferal />
               </HeaderIem>
               {/* <HeaderIem title="PAYMENTS">
               <PaymentDropDown />
               </HeaderIem> */}
-              <HeaderIem title="PROMOTIONS AND CONTESTS">
+              <HeaderIem title="PROMOTIONS AND CONTESTS" icon="https://img.icons8.com/external-tulpahn-detailed-outline-tulpahn/26/ffffff/external-promotion-online-shopping-tulpahn-detailed-outline-tulpahn.png">
                 <PromotionDropDown />
               </HeaderIem>
 
-              <HeaderIem title="MARKET RESEARCH & EDUCATION">
+              <HeaderIem title="MARKET RESEARCH & EDUCATION" icon="https://img.icons8.com/external-wanicon-lineal-wanicon/26/ffffff/external-research-space-wanicon-lineal-wanicon.png">
               <AnalyticsDropDown />
                 {/* <PAMMsDropDown /> */}
               </HeaderIem>
-              <HeaderIem title="SOCIAL & PAMM">
+              <HeaderIem title="SOCIAL & PAMM" icon="https://img.icons8.com/external-becris-lineal-becris/26/ffffff/external-social-science-literary-genres-becris-lineal-becris.png">
                 <PAMMsDropDown />
               </HeaderIem>
               {/* <HeaderIem title="SOCIAL TRADING">

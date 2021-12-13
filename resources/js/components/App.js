@@ -149,7 +149,7 @@ import DefaultPage from "./DefaultPage";
           {/* <Route path="/cfd-incdices" component={CFDincidies}></Route> */}
           {/* <Route path="/comodoties" component={Commodities}></Route> */}
           {/* <Route path="/faqs" component={Faq}></Route> */}
-          {/* <Route path="/protection-funds" component={ProtectionofFunds}></Route> */}
+          <Route path="/protection-funds" component={ProtectionofFunds}></Route>
 
           <Route path="/mt4-platform" component={Mt4}></Route>
           <Route path="/mt5-platform" component={Mt5}></Route>
@@ -164,12 +164,12 @@ import DefaultPage from "./DefaultPage";
           <Route path="/risk-disclouser" component={RiskPage}></Route>
           {/* <Route path="/instruction-security" component={SafetyOfFunds}></Route> */}
           <Route path="/terms-and-condition" component={TermsAndCondition}></Route>
-          {/* <Route
+          <Route
             path="/deposite-withdraw"
             component={DepositWithdrawPage}
-          ></Route> */}
+          ></Route>
 
-          {/* <Route path="/strategy-manager" component={StrategyManage} /> */}
+          <Route path="/strategy-manager" component={StrategyManage} />
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
           <Route path="/refer-terms" component={Terms_Refer} />
           <Route  component={DefaultPage} />
