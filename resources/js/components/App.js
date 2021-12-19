@@ -56,6 +56,8 @@ import StrategyManage from "./pages/PAMM/StrategyManage";
 import Bonus_335per_tc from "./pages/FooterLinkPages/bonus_335per_tc";
 import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
 import DefaultPage from "./DefaultPage";
+import NavBar from "./HomePage/NavBar";
+import Landing from "./HomePage/Landing";
 
  class App extends Component {
   // state
@@ -103,7 +105,7 @@ import DefaultPage from "./DefaultPage";
 
   render() {
     return (
-      <div >
+      <main >
 
 
         {/* <AffixBar /> */}
@@ -112,8 +114,9 @@ import DefaultPage from "./DefaultPage";
           active={this.state.sideBar}
           closeHeader={this.handleSideBar.bind(this)}
         />
+        {/* <NavBar></NavBar> */}
         <Switch>
-          <Route path="/" exact component={LandingPage}></Route>
+          <Route path="/" exact component={Landing}></Route>
 
           <Route path="/about-us" component={AboutUsPage2}></Route>
           <Route path="/trading-terms" component={TermsAndCondition}></Route>
@@ -176,7 +179,7 @@ import DefaultPage from "./DefaultPage";
           </Switch>
         <Footer />
 
-      </div>
+      </main>
     );
   }
 }

@@ -135,7 +135,7 @@
   text-align: center;
   padding-left: 3vw;
   padding-right: 3vw;
-  background-color: #090d1c;
+  /* background-color: #090d1c; */
 }
 .landingSliderBg2 {
   background-image: none;
@@ -159,12 +159,12 @@
 }
 .featureImageCircle {
   margin: 0 auto;
-  border: 2px solid #090d1cdb;
+  /* border: 2px solid #090d1cdb; */
   /* background-color: #fff; */
-  height: 80px;
-  width: 80px;
+  height: 40px;
+  width: 40px;
   border-radius: 40px;
-  padding: 20px 20px;
+  /* padding: 20px 20px; */
 }
 .featureImage {
   margin: 0 auto;
@@ -658,7 +658,7 @@ word-spacing: 0.5px;
 
   }
   .tradeWithRow {
-    margin-top: -35px;
+    margin-top: -100px;
   }
   .tradeWithFRow {
     color: #fff;

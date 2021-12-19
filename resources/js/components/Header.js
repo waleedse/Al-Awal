@@ -13,7 +13,7 @@ import PromotionDropDown from "./HeaderComp/PromotionDropDown";
 import HeaderIem from "./HeaderComp/HeaderIem";
 import Refferal from "./HeaderComp/Refferal";
 import TradingInstruments from "./HeaderComp/TradingInstruments";
-
+import $ from 'jquery'
  class Header extends Component {
 
   componentDidMount(){
@@ -21,32 +21,64 @@ import TradingInstruments from "./HeaderComp/TradingInstruments";
     console.log(url)
     if(url==="/about-us")
     console.log(url)
+    if(url == "/"){
+        this.setState({landing:true})
+    }
+    window.addEventListener("scroll", (event) => {
+        let scroll = window.scrollY;
+        if(scroll > 200){
+           this.setState({
+            navTrans: false
+           })
+        }else{
+            this.setState({
+                navTrans: true
+               })
+        }
+
+
+        console.log(scroll,this.state.fixDiv)
+    });
     this.setState({
       activeAboutUs:true
     })
+
+    $(document).ready(function(){
+        $(window).scroll(function (){
+          if($(window).scrollTop()>150){
+            $('nav').removeClass('navbar-trans');
+            $('nav').addClass('navbar-bg');
+
+          }else{
+            $('nav').removeClass('navbar-bg');
+            $('nav').addClass('navbar-trans');
+          }
+        })
+      })
   }
 
 
   constructor(){
     super();
-    this.state={activeAboutUs:false}
+    this.state={activeAboutUs:false,landing:false,navTrans:true}
 
   }
   render() {
     const {activeAboutUs}=this.state
     return (
       <>
-        <Navbar className="navbar-dark" expand="lg" fixed={activeAboutUs?"top":""} >
+        <Navbar className={this.state.landing ? "navbar-trans " : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
+            <div className={this.state.landing ? "navbar-trans container" : " navbar-bg"} >
           <Navbar.Brand href="/" className="navBrand">
             <img
               className="headerLogo"
-              src="/assets/images/logotrans.png"
+              src="/img/logo-light.png"
               alt="logo"
             ></img>
           </Navbar.Brand>
           <Navbar.Toggle onClick={this.props.handleSideBar} aria-controls="" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="ml-auto mr-4 d-none d-md-flex navItemRow">
+            <Nav className="ml-auto mr-auto d-none d-md-flex navItemRow">
 
                 <HeaderIem styles={{borderLeft:'0'}} title="ABOUT US" icon="https://img.icons8.com/ios/26/ffffff/about.png">
                 <AboutUsDropDown />
@@ -92,6 +124,7 @@ import TradingInstruments from "./HeaderComp/TradingInstruments";
               </NavLink> */}
             </Nav>
           </Navbar.Collapse>
+          </div>
         </Navbar>
       </>
     );

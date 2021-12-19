@@ -10,10 +10,10 @@ export default class Footer extends Component {
             <div className="footerCol">
               <img
                 className="footerLogo"
-                src="/assets/images/logotrans.png"
+                src="/img/logo-light.png"
                 alt="image"
               ></img>
-              <h3 className="footerTitle">Registered Office</h3>
+              <h3 className="footerTitle text-light">Registered Office</h3>
               <p className="footerText">
                 {/* Cabana Capitals */}
                  <br />

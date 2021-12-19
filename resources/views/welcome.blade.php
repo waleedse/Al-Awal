@@ -8,22 +8,14 @@
 
     <!-- Canonical Tags -->
 
-    <link rel="canonical" href="https://www.cabanacapitals.com/" />
     <!-- frontend_index_index -->
     <title>Al-Awal</title>
-    <meta name="description" content="Trade with True ECN Forex Broker and best trading conditions: Low Spreads, No Swaps, No Commissions." />
-    <meta name="keywords" content="cabana capitals, true ecn forex broker, forex, forex trading, broker, currency trading, deposit, bonus, forex broker, no requote, no deposit bonus, deposit bonus, visa, mastercard, octafx, fbs, tickmill, superforex, liteforex, icmarkets, weltrade, iforex, best forex broker, nord forex " />
-    <!-- Open Graph Data -->
-    <meta property="og:url" content="https://www.cabanacapitals.com/" />
-    <meta property="og:title" content="True ECN Forex broker, Online Forex Trading, CFD Trading - Cabana Capitals" />
-    <meta property="og:description" content="Trade with True ECN Forex Broker and best trading conditions: Low Spreads, No Swaps, No Commissions." />
-    <meta property="og:type" content="website" />
 
-    <meta property="og:site_name" content="Cabana Capitals">
+
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="thumbnail" content="/assets/images/logo.png" />
     <link rel="shortcut icon" href="/assets/images/favicon.ico">
-    <title>Cabana Capitals | Forex Trading with True ECN Forex Broker</title>
+    <title>Al Awal Market</title>
     <!-- Font Awesome -->
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -37,7 +29,22 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
 
     <!-- Styles -->
-
+    <link rel="preload" href="/js/vendors/uikit.min.js" as="script">
+    <link rel="preload" href="/css/vendors/uikit.min.css" as="style">
+    <link rel="preload" href="/css/style.css" as="style">
+    <!-- Icon preload -->
+    <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+    <!-- Font preload -->
+    <link rel="preload" href="/fonts/inter-v2-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/inter-v2-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/inter-v2-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+    <!-- Favicon and apple icon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/vendors/uikit.min.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
@@ -50,7 +57,10 @@
 
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
     <script type="text/javascript" src="{{asset('js/app.js')}}"></script>
-
+ <!-- Javascript -->
+    <script src="/js/vendors/uikit.min.js"></script>
+    <script src="/js/vendors/blockit.min.js"></script>
+    <script src="/js/config-theme.js"></script>
 </body>
 
 </html>
