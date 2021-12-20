@@ -68,7 +68,7 @@ import $ from 'jquery'
     return (
       <>
         <Navbar className={this.state.landing ? "navbar-trans " : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
-            <div className={this.state.landing ? "navbar-trans container" : " navbar-bg"} >
+            <div className={this.state.landing ? "navbar-trans container" : " navbar-bg container-fluid"} >
           <Navbar.Brand href="/" className="navBrand">
             <img
               className="headerLogo"
