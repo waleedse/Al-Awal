@@ -179,9 +179,9 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                           <span> Account Type</span>
                         </div>
                       </Link>
-                      <Link to="/islamic-trading">
+                      {/* <Link to="/islamic-trading">
                         <div className="sideBarItemNew">Islamic Account</div>
-                        </Link>
+                        </Link> */}
                         <Link to="/trading-termonology">
                         <div className="sideBarItemNew">Trading Termonology</div>
                         </Link>
@@ -198,10 +198,10 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                           <Link to="/mt4-platform">
+                           {/* <Link to="/mt4-platform">
 
                         <div className="sideBarItem">MetaTrader 4</div>
-                        </Link>
+                        </Link> */}
                         <Link to="/mt5-platform">
                         <div className="sideBarItem">MetaTrader 5</div>
                         </Link>
@@ -320,15 +320,15 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                      <Link to="/education">
+                      {/* <Link to="/education">
                         <div className="headerDropDownItem">Education</div>
-                        </Link>
-                        <Link to="/analytics">
+                        </Link> */}
+                        {/* <Link to="/analytics">
                         <div className="headerDropDownItem">How to use Mt4</div>
-                        </Link>
-                        <a href="https://blog.cabanacapitals.com">
+                        </Link> */}
+                        {/* <a href="https://blog.cabanacapitals.com">
                         <div className="headerDropDownItem">Analytics</div>
-                        </a>
+                        </a> */}
                     </div>
                   </HeaderMobileLastDropDown>
                 </>
@@ -343,9 +343,9 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                       <a href="https://social.cabanacapitals.com/portal/login">
+                       {/* <a href="https://social.cabanacapitals.com/portal/login">
                         <div className="sideBarItem">Social Trading</div>
-                        </a>
+                        </a> */}
                         {/* <Link to="/PAMM">
                         <div className="sideBarItem">PAMM Manager</div>
                         </Link> */}
@@ -367,15 +367,15 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                       <a href="https://social.cabanacapitals.com/portal/login">
+                       {/* <a href="https://social.cabanacapitals.com/portal/login">
                         <div className="sideBarItem">Social Login</div>
-                        </a>
-                       <Link to="/social-trading">
+                        </a> */}
+                       {/* <Link to="/social-trading">
                         <div className="sideBarItem">Social Trading</div>
                         </Link>
                         <Link to="/PAMM">
                         <div className="sideBarItem">PAMM Manager</div>
-                        </Link>
+                        </Link> */}
                         <Link to="/strategy-manager">
                         <div className="sideBarItem">PAMM Strategy Manager</div>
                         </Link>

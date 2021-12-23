@@ -11,14 +11,14 @@ export default class TradingCurrencisePage extends Component {
       <div>
         <HeroSec2
            title="Trade global market indices"
-           title2="WITH CABANA CAPITALS"
+           title2="WITH Al Awal CAPITALS"
            text="Discover your trading opportunity with popular stock portfolios"
            bg="cfdbanner.jpg"
         />
        <div className="greyBg">
         <div className="basicRow text-center">
           <p className="textFont">
-          When you trade indices with an industry-leading broker, you can expect to choose from an industry-leading selection of indices. Cabana Capitals offer CFD trading for spot indices on some of the world’s most active securities,
+          When you trade indices with an industry-leading broker, you can expect to choose from an industry-leading selection of indices. Al Awal Capitals offer CFD trading for spot indices on some of the world’s most active securities,
           meaning that you can choose to buy and sell indices at their spot price to suit you and your trading strategy.
           </p>
         </div>
@@ -41,7 +41,7 @@ export default class TradingCurrencisePage extends Component {
             </ul>
 
             <p className="aboutDetailText">
-            Cabana Capitals’s superior online trading conditions ensure that you can trade indices with leverage to
+            Al Awal Capitals’s superior online trading conditions ensure that you can trade indices with leverage to
             suit your trading style and investment goals.
             This can strengthen your positions and potentially maximise profits –
             although you should remember that leverage can also amplify your losses.
@@ -66,12 +66,12 @@ export default class TradingCurrencisePage extends Component {
           <div className="row basicRow">
 
             <div className="col-md-6 col-sm-12">
-              <h4 className="aboutDetailTitle">What are indices?</h4>
+              <h4 className="aboutDetailTitle text-light">What are indices?</h4>
               <p className="aboutDetailText">
               Indices, or indexes, are portfolios of stocks. These stocks are grouped together in accordance with a particular sector or a particular market: the GERM30 (or GER 30), for example, consists of 30 major German companies trading on the Frankfurt Stock Exchange. The ND100m includes stocks from the top technology companies in the US.
               </p>
 
-              <h4 className="aboutDetailTitle">How does CFD trading on spot indices work?
+              <h4 className="aboutDetailTitle text-light">How does CFD trading on spot indices work?
 </h4>
               <p className="aboutDetailText">
               A Contract for Difference (CFD) is a contract made between a buyer and a seller for a specified product. The seller agrees to pay the buyer the price difference between the current price and the price at the end of the contract. This means that when you trade CFDs on indices, you are aiming to profit from the movement of an index - instead of investing in the index itself. Investors trade CFDs on spot indices on online trading platforms, using stock trading accounts
@@ -98,7 +98,7 @@ export default class TradingCurrencisePage extends Component {
 </h4>
               <p className="aboutDetailText">
               Get superior service and instant order execution on 13 CFD
-              Indices pairs from Cabana Capitals. Take control of your forex
+              Indices pairs from Al Awal Capitals. Take control of your forex
               investments and enjoy the best risk-reward opportunities of the financial markets
               with an award winning forex brokerage firm. Reap the benefits of superior professional
               services and instant order execution on 13 popular CFD Indices pairs backed by some of the best

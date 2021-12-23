@@ -109,11 +109,14 @@
     text-align: center;
     padding-left: 3vw;
     padding-right: 3vw;
-    background: #090d1c !important;
+    background: #101112 !important;
   }
   .howitworkmain{
     margin-top: 0px !important;
   }
+}
+.footeraTitle{
+    color: #fff !important;
 }
 .btnSignUp {
   background-color: #fff;
@@ -149,6 +152,7 @@
 .tradeWithTitle {
   font-size: 1.5rem;
   font-weight: bold;
+  margin-top: -30px;
 }
 .tradeWithText {
   font-size: 0.8rem;

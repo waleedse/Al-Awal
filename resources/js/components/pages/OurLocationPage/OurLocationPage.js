@@ -39,7 +39,7 @@ London, WC2H 9JQ</div>
                 <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 208 124 4440</div>
                 <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> support@cabanacapitals.com</div>
                </div>
-               <div className="locationCard">
+               {/* <div className="locationCard">
                    <div className='title'>Dubai</div>
                    <div className="text"><FontAwesomeIcon icon={faMapMarkerAlt} color="#ee3f97"  /> <span>Office No. 2005, 20th Floor, 2306, Prism tower, Business Bay, <br/> Dubai, UAE
 
@@ -47,15 +47,15 @@ London, WC2H 9JQ</div>
                 </span></div>
                 <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  />  +971 (0) 547 468 487</div>
                 <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> support@cabanacapitals.com</div>
-               </div>
-               <div className="locationCard">
+               </div> */}
+               {/* <div className="locationCard">
                    <div className='title'>Nigeria</div>
                    <div className="text"><FontAwesomeIcon icon={faMapMarkerAlt} color="#ee3f97"  /> <span>4th floor Mosesola House, 103 Allen Avenue,<br/> Ikeja Lagos.
 
                 </span></div>
                 <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +234 805 653 1053.</div>
                 <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> hu@cabanacapitals.com</div>
-               </div>
+               </div> */}
            </div>
           </div>
         </div>

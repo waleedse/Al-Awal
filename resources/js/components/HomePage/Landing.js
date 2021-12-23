@@ -15,8 +15,8 @@ class Landing extends Component {
                                             <div className="uk-overlay mt-5">
                                                 <h1>World's leading Most Trusted <br/> Forex Broker.</h1>
                                                 <p className="uk-text-lead uk-visible@m">Trade forex, commodities, synthetic and stock indices from a single account</p>
-                                                <a href="#" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
-                                                <a href="#" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
+                                                <a href="https://client.alawalcapital.co.uk/#/auth/lohin" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
+                                                <a href="https://client.alawalcapital.co.uk/#/auth/signup" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
                                             </div>
                                         </div>
                                         <div className="uk-width-1-2@s">
@@ -86,7 +86,7 @@ customer support<i className="fas fa-angle-right uk-margin-small-left" /></a>
                         </div> */}
                          <div className="container-fluid">
               <div className="row tradeWithRow ">
-                <div className="col-12 pt-5">
+                <div className="col-12 ">
                   <h3 className="tradeWithTitle">Why Trade with Al Awal Capital </h3>
                   {/* <p className="tradeWithText">
                   Trade multiple financial products with the most reliable Forex Broker

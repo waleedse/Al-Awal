@@ -13,7 +13,7 @@
   color: #fff;
   opacity: 0.5;
   cursor: pointer;
-  background-color: rgba(235, 22, 151, 0.5);
+  background-color: #2391d5d5;
   transition: ease-in 0.2s;
 }
 .compareAccountCard {
@@ -54,7 +54,7 @@
   text-transform: uppercase;
 }
 .compareAccountInfo {
-  background-color: #b41375;
+  background-color: #1f7cb6;
   height: 370px;
   padding: 30px;
 }
@@ -111,7 +111,7 @@
   font-weight: bold;
 }
 .compareAccountActions {
-  background-color: #be1d79;
+  background-color: #2391d5;
   padding: 30px 20%;
   height: 220px;
   text-align: center;
@@ -122,7 +122,7 @@
   color: #fff;
 }
 .compareAccountDivider {
-  background-color: #e7acd0;
+  background-color: #72b5df;
 }
 .compareAccountActionRow {
   display: flex;
@@ -140,7 +140,7 @@
   transition: ease-in 0.2s;
 }
 .compareAccountActionButton:hover {
-  color: #e7acd0;
+  color: #79c2f0;
 }
 .border-none {
   border: none !important;
@@ -155,7 +155,7 @@
   color: #000;
   text-transform: uppercase;
   padding: 10px;
-  background-color: #F6F7F8;
+  background-color: #2391d536;
 }
 .compareAccountDetail .text {
   font-size: 0.6rem;
@@ -165,22 +165,22 @@
 }
 .compareAccountDetail .divider {
   width: 40%;
-  background-color: #e7acd0;
+  background-color: #7ac2f0;
 }
 .compareAccountDetail .bold {
   font-weight: bold;
 }
 .compareAccountBg1 {
-  background-color: #a31167;
+  background-color: #0f77b8;
 }
 .compareAccountBg2 {
-  background-color: #91185d;
+  background-color: #107ec2;
 }
 .compareAccountBg3 {
-  background-color: #7d004d;
+  background-color: #1d6ea0;
 }
 .compareAccountBg4 {
-  background-color: #65093f;
+  background-color: #075280;
 }
 
 .compareAccountBgM{

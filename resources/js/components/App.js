@@ -120,7 +120,7 @@ import Landing from "./HomePage/Landing";
 
           <Route path="/about-us" component={AboutUsPage2}></Route>
           <Route path="/trading-terms" component={TermsAndCondition}></Route>
-          {/* <Route path="/account-type" component={AccountTypes}></Route> */}
+          <Route path="/account-type" component={AccountTypes}></Route>
           {/* <Route path="/affiliate-program" component={Affiliyate}></Route> */}
           {/* <Route
             path="/mission-and-values"
@@ -135,26 +135,26 @@ import Landing from "./HomePage/Landing";
             path="/trading-instruments"
             component={TradingInstrumentPage}
           ></Route>
-          {/* <Route
+          <Route
             path="/trading-currencies"
             component={TradingCurrencisePage}
-          ></Route> */}
+          ></Route>
           <Route path="/introducing-broker" component={PatnershipPage}></Route>
-          {/* <Route path="/negative-balance-protection" component={NegativeBalanceProtection}></Route> */}
+          <Route path="/negative-balance-protection" component={NegativeBalanceProtection}></Route>
           {/* <Route path="/reffer-friend" component={Refferafriend}></Route> */}
           {/* <Route path="/trading-memory/:id" component={TraidingMemory}></Route> */}
 
           <Route path="/white-label" component={WhiteLABEL}></Route>
           {/* <Route path="/social-trading" component={SocialTrading}></Route> */}
           {/* <Route path="/islamic-trading" component={Islamic}></Route> */}
-          {/* <Route path="/trading-termonology" component={Termonology}></Route> */}
-          {/* <Route path="/precious-metals" component={PreciousMetals}></Route> */}
-          {/* <Route path="/cfd-incdices" component={CFDincidies}></Route> */}
-          {/* <Route path="/comodoties" component={Commodities}></Route> */}
-          {/* <Route path="/faqs" component={Faq}></Route> */}
+          <Route path="/trading-termonology" component={Termonology}></Route>
+          <Route path="/precious-metals" component={PreciousMetals}></Route>
+          <Route path="/cfd-incdices" component={CFDincidies}></Route>
+          <Route path="/comodoties" component={Commodities}></Route>
+          <Route path="/faqs" component={Faq}></Route>
           <Route path="/protection-funds" component={ProtectionofFunds}></Route>
 
-          <Route path="/mt4-platform" component={Mt4}></Route>
+          {/* <Route path="/mt4-platform" component={Mt4}></Route> */}
           <Route path="/mt5-platform" component={Mt5}></Route>
           {/* <Route path="/promotion"  component={PromotionPage}></Route> */}
           {/* <Route path="/newPromotion" component={NewPromo35PerB}></Route> */}

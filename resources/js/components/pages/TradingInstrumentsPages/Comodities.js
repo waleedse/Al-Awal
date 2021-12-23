@@ -11,7 +11,7 @@ export default class TradingCurrencisePage extends Component {
       <div>
         <HeroSec2
            title="TRADE OIL AND GAS"
-           title2="WITH CABANA CAPITALS"
+           title2="WITH Al Awal CAPITALS"
            text="Discover trading opportunities in some of the world’s biggest oil and natural gas markets."
            bg="oil_and_gas.jpg"
         />
@@ -20,7 +20,7 @@ export default class TradingCurrencisePage extends Component {
           <p className="textFont">
           Trading CFDs on commodities like oil and gas is a great way to diversify your portfolio,
           and offers you access to those markets without having to purchase the product outright. Whatever your investment goals may be,
-           make the most of today’s market action and start trading popular oil and gas products with Cabana Capitals.
+           make the most of today’s market action and start trading popular oil and gas products with Al Awal Capitals.
           </p>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default class TradingCurrencisePage extends Component {
             <p className="aboutDetailText">
             CFD trading in the oil and gas markets is a convenient and flexible way for
             investors to diversify their portfolios — and these assets continue to be a popular choice among traders today.
-            With Cabana Capitals you can trade CFDs on the following commodities
+            With Al Awal Capitals you can trade CFDs on the following commodities
             </p>
             <ul className="pl-3">
               <li className="aboutDetailText">UK Brent oil (spot)</li>
@@ -63,7 +63,7 @@ export default class TradingCurrencisePage extends Component {
           <div className="row basicRow">
 
             <div className="col-md-6 col-sm-12">
-              <h4 className="aboutDetailTitle">How does Commodity CFD trading work?</h4>
+              <h4 className="aboutDetailTitle text-light">How does Commodity CFD trading work?</h4>
               <p className="aboutDetailText">
               A Contract for Difference (CFD) is an agreement between the buyer and the seller. It means that the seller will pay
               the buyer the difference between the commodity’s current price and its price at the point the contract specifies.
@@ -96,7 +96,7 @@ export default class TradingCurrencisePage extends Component {
               <h4 className="aboutDetailTitle">CFD Commodities Pairs
 </h4>
               <p className="aboutDetailText">
-              Get superior service and instant order execution on 3 CFD Commodities Pairs from Cabana Capitals.
+              Get superior service and instant order execution on 3 CFD Commodities Pairs from Al Awal Capitals.
               Take control of your forex investments and enjoy the best risk-reward opportunities of the financial
               markets with an award winning forex brokerage firm. Reap the benefits of superior professional services
               and instant order execution on 3 popular CFD

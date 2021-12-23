@@ -9,7 +9,7 @@ class ProtectionofFunds extends Component {
                  <HeroSec2
                 title="Protection of Funds"
                 // text="Our Best Practices for the Protection of Your Funds "
-                // text2="Cabana Capitals ensures the security of funds and personal data of its clients in the best possible manner. It is our first priority to protect your deposits in every possible way. Here are some of the measures we take to ensure funds protection: "
+                // text2="Al Awal Capitals ensures the security of funds and personal data of its clients in the best possible manner. It is our first priority to protect your deposits in every possible way. Here are some of the measures we take to ensure funds protection: "
                 bg="pof.png"
         />
 

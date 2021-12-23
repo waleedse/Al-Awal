@@ -9,13 +9,13 @@ export default class PAMMsDropDown extends Component {
             className="headerDropDownItemDiv offset-md-3"
             onClick={this.props.dropDownHandler}
           >
-            <h5 className="headerDropDownTitle">Social Trading</h5>
+            {/* <h5 className="headerDropDownTitle">Social Trading</h5>
             <a href="https://social.cabanacapitals.com/portal/login">
               <div className="headerDropDownItem">Social Login</div>
             </a>
             <a href="/social-trading">
               <div className="headerDropDownItem">Social Trading</div>
-            </a>
+            </a> */}
             {/* <a href="/PAMM">
               <div className="headerDropDownItem">PAMM Manager</div>
             </a> */}
@@ -29,9 +29,9 @@ export default class PAMMsDropDown extends Component {
           >
 
             <h5 className="headerDropDownTitle mt-4">PAMM MANAGER</h5>
-            <a href="/PAMM">
+            {/* <a href="/PAMM">
               <div className="headerDropDownItem">PAMM Manager</div>
-            </a>
+            </a> */}
             <a href="/strategy-manager" >
               <div className="headerDropDownItem">PAMM Strategy Manager</div>
             </a>

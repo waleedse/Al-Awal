@@ -13,8 +13,8 @@ export default class AnalyticsDropDown extends Component {
             <a href="/education">
               <div className="headerDropDownItem">Education</div>
             </a>
-            <a href="/analytics">
-              <div className="headerDropDownItem">How To Use MT4</div>
+            <a href="/analytics"  className="opacityZero">
+              <div className="headerDropDownItem">How To Use MT5</div>
             </a>
           </div>
           <div

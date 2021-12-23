@@ -6,7 +6,7 @@ class Termonology extends Component {
             <div>
                 <div className="ter_bg">
                     <div>
-                        <div className='title_' ><span className='titleLg'>Cabana Capitals<br />
+                        <div className='title_' ><span className='titleLg'>Al Awal Capitals<br />
 
                         </span><br /></div>
                         <div className=' title2'>Investment Terminology</div>
@@ -15,7 +15,7 @@ class Termonology extends Component {
                 </div>
                 <div className="conatiner">
                 <h1 className="title_ text-center py-4" style={{color:'#5b0156'}} >
-                Cabana Capitals Investment Terminalogy</h1>
+                Al Awal Capitals Investment Terminalogy</h1>
                 </div>
                 <div className="bt4S_bottom">
                     <div className="container">

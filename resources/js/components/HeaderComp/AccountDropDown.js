@@ -13,9 +13,7 @@ export default class AccountDropDown extends Component {
             <a href="/account-type">
               <div className="headerDropDownItem">Account Type</div>
             </a>
-            <a href="/islamic-trading">
-              <div className="headerDropDownItem">Islamic Account</div>
-            </a>
+
             <a href="/trading-termonology">
               <div className="headerDropDownItem">Trading Terminology</div>
             </a>
@@ -25,19 +23,23 @@ export default class AccountDropDown extends Component {
             <a href="/mt5-platform" className="opacityZero">
               <div className="headerDropDownItem">MetaTrader 5</div>
             </a>
+            <a href="/islamic-trading"  className="opacityZero">
+              <div className="headerDropDownItem">Islamic Account</div>
+            </a>
           </div>
           <div
             className="headerDropDownItemDiv"
             onClick={this.props.dropDownHandler}
           >
             <h5 className="headerDropDownTitle">TRADING PLATFORMS</h5>
-            <a href="/mt4-platform">
-
-              <div className="headerDropDownItem">MetaTrader 4</div>
-            </a>
             <a href="/mt5-platform">
               <div className="headerDropDownItem">MetaTrader 5</div>
             </a>
+            <a href="/mt4-platform"  className="opacityZero">
+
+              <div className="headerDropDownItem" >MetaTrader 4</div>
+            </a>
+
             <a href="/mt5-platform" className="opacityZero">
               <div className="headerDropDownItem">MetaTrader 5</div>
             </a>
