@@ -14,14 +14,14 @@ class StepsToOpenAccount extends Component {
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/deposite1.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/registration.svg" alt="card"></img></div>
               <h4 className="title">Register</h4>
               <p className="text">Open your live trading account via Al Awal</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/deposite2.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/verify.svg" alt="card"></img></div>
               <h4 className="title">Verify</h4>
               <p className="text">
       Upload your documents
@@ -31,7 +31,7 @@ class StepsToOpenAccount extends Component {
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/deposite3.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/earn.svg" alt="card"></img></div>
               <h4 className="title">fund</h4>
               <p className="text">Login to Al  Awal Capitals
       and fund
@@ -40,7 +40,7 @@ class StepsToOpenAccount extends Component {
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/deposite4.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/applyforib.svg" alt="card"></img></div>
               <h4 className="title">Trade</h4>
               <p className="text">Start trading on more than 80 instruments</p>
             </div>

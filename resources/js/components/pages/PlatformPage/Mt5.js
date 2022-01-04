@@ -35,7 +35,7 @@ class Mt4 extends Component {
                                 <img className="mt4icons" src="/assets/images/mt4icons.png"></img>
                             </div>
                             <div className="col-md-6 text-center">
-                                <img className="mt4_graph" src="/assets/images/mt5_bottom_.png"></img>
+                                <img className="mt4_graph" src="/assets/images/mt5_bottom.png"></img>
                             </div>
                         </div>
                     </div>

@@ -198,7 +198,7 @@ to assist you via various contact channels
     </div>
     <div className="uk-child-width-1-3@m" data-uk-grid>
       <div>
-        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container">
+        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container" style={{height:'485px'}}>
           <div className="uk-card-media-top">
             <img src="/img/5.svg" data-src="img/in-liquid-object-1.svg" alt="sample-image" data-width data-height  />
           </div>
@@ -209,7 +209,7 @@ to assist you via various contact channels
         </div>
       </div>
       <div>
-        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container">
+        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container" style={{height:'485px'}}>
           <div className="uk-card-media-top">
             <img src="/img/6.svg" data-src="img/in-liquid-object-2.svg" alt="sample-image" data-width data-height  />
           </div>
@@ -221,7 +221,7 @@ to assist you via various contact channels
         </div>
       </div>
       <div>
-        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container">
+        <div className="uk-card uk-card-secondary uk-border-rounded uk-cover-container" style={{height:'485px'}}>
           <div className="uk-card-media-top">
             <img src="/img/7.svg" data-src="img/in-liquid-object-3.svg" alt="sample-image" data-width data-height  />
           </div>

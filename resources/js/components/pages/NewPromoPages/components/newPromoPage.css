@@ -35,7 +35,7 @@
    align-items: center;
 }
 .ter_bg{
-    background-image: url("/assets/images/ter_bg.jpeg");
+    background-image: url("/assets/images/termonology.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -83,7 +83,7 @@
    align-items: center;
 }
 .affliateBg{
-    background-image: url("/assets/images/affiliate.jpg");
+    background-image: url("/assets/images/affiliyatebg.png");
     background-position: top;
     padding-top: 50px;
     background-repeat: no-repeat;
@@ -191,7 +191,7 @@
     width: 70%;
 }
 .download_mmt4{
-    background-color: #c30977;
+    background-color: #0180f0;
     padding: 5px;
     border-radius: 1px;
     color: #fff;

@@ -25,7 +25,7 @@ export default class TradingInstrumentComponent extends Component {
         <TradingInstrumentLeft
           title="Currencies (FX)"
           text="Currency trading, also known as FX or forex (foreign exchange) trading, enables traders to take advantage of increases and decreases in a currency’s value. The foreign exchange market is the most liquid in the world, with a daily trading volume of over $5 trillion. Discover the potential benefits of online forex trading with a global award-winning broker."
-          imgUrl="/assets/images/C_F_X.png"
+          imgUrl="/assets/images/crunncies1.svg"
           learnMoreLink="/trading-currencies"
         />
         <TradingInstrumentRight
@@ -33,13 +33,13 @@ export default class TradingInstrumentComponent extends Component {
           text="Trading precious metals is one of the most popular ways of diversifying your portfolio. Trade spot gold and spot silver prices against the US Dollar and other major currencies with a True ECN Broker today, and reap the potential benefits.
           Gold and silver have been exchanged for goods and currencies throughout time —and these precious metals continue to be a popular choice among traders today.
           "
-          imgUrl="/assets/images/p_fx.png"
+          imgUrl="/assets/images/preciousmetaal.svg"
           learnMoreLink="/precious-metals"
         />
         <TradingInstrumentLeft
           title="VPS"
           text="VPS (Virtual Private Server) hosting allows Forex traders to run automated algorithmic strategies, including expert advisors 24 hours a day 7 days a week on a Virtual Machine.."
-          imgUrl="/assets/images/vps.png"
+          imgUrl="/assets/images/vps1.svg"
           learnMoreLink="/vps"
         />
         <TradingInstrumentRight
@@ -48,7 +48,7 @@ export default class TradingInstrumentComponent extends Component {
           the price. The cost of CFD is based on the price of the underlying instrument and is not
            traded on an exchange, despite the status, or location of the underlying instrument. That’s
           why CFD’s are called an over-the-counter (OTC)product."
-          imgUrl="/assets/images/cfd.png"
+          imgUrl="/assets/images/cfd1.svg"
           learnMoreLink="/cfd-incdices"
         />
         <div className="mt-5"></div>

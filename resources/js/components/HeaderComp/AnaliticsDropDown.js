@@ -17,18 +17,18 @@ export default class AnalyticsDropDown extends Component {
               <div className="headerDropDownItem">How To Use MT5</div>
             </a>
           </div>
-          <div
+          {/* <div
             className="headerDropDownItemDiv "
             onClick={this.props.dropDownHandler}
           >
             <h5 className="headerDropDownTitle">ANALYTICS</h5>
-            <a href="https://blog.cabanacapitals.com">
+            <a href="/analytics">
               <div className="headerDropDownItem">Analytics</div>
             </a>
             <a href="/mt5-platform" className="opacityZero">
               <div className="headerDropDownItem">MetaTrader 5</div>
             </a>
-          </div>
+          </div> */}
           <div className="headerDropDownImgDiv">
             <img
               className="headerDropDownImg"

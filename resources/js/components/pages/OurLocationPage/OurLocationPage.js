@@ -7,24 +7,25 @@ const OurLocationPage = () => {
     return (
         <div className="ourLocation">
           <HeroSection title="OUR LOCATION"
-          bg="contactus.jpg"
+          bg="location.jpg"
           />
 
            <div style={{position:"relative"}}>
           <div className='d-none d-md-inline'>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9079806071104!2d-0.12573858434267496!3d51.51490417963637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ccab2ffaa9%3A0x9192a9c4dd80455b!2sCovent%20Garden!5e0!3m2!1sen!2s!4v1622785627459!5m2!1sen!2s" width="100%" height="450" frameBorder="0" style={{border:'0'}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe></div>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.088685218583!2d-61.2233890492321!3d13.156805714300663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c475150d7889919%3A0xec14007759a547d6!2sGriffith%20Corporate%20Centre!5e0!3m2!1sen!2s!4v1641327221958!5m2!1sen!2s" width="100%" height="450" frameBorder="0" style={{border:'0'}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe></div>
 
 
            <div className="mapCard">
             <div className="title">London Office</div>
-            <div className="text">71-75, Shelton Street,<br/>
-Covent Garden,<br/>
-London, WC2H 9JQ</div>
+            <div className="text">Suit 305, Griffith Corporate Centre<br/>
+            Beachmont, P.O.Box 1510, Kingstown St.<br/>
+            Vincent and the Grenadines</div>
 
             <div className="title">Customer Support</div>
             <div className="text">For any enquiries call or whatsapp us .</div>
-            <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#fff"  /> +44 208 124 4440</div>
-            <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#fff"  /> support@cabanacapitals.com</div>
+            {/* <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#fff"  /> +44 208 124 4440</div> */}
+            <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#fff"  /> support@alawalcapital.co.uk
+</div>
            </div>
            </div>
 
@@ -32,12 +33,12 @@ London, WC2H 9JQ</div>
           <div className="cardFlex">
                <div className="locationCard">
                    <div className='title'>London</div>
-                   <div className="text"><FontAwesomeIcon icon={faMapMarkerAlt} color="#ee3f97"  /> <span>71-75, Shelton Street,<br/>
-                    Covent Garden,<br/>
-                    London, WC2H 9JQ
+                   <div className="text"><FontAwesomeIcon icon={faMapMarkerAlt} color="#ee3f97"  /> <span>Suit 305, Griffith Corporate Centre<br/>
+                   Beachmont, P.O.Box 1510, Kingstown St.<br/>
+            Vincent and the Grenadines
                 </span></div>
-                <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 208 124 4440</div>
-                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> support@cabanacapitals.com</div>
+                {/* <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 208 124 4440</div> */}
+                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> support@alawalcapital.co.uk</div>
                </div>
                {/* <div className="locationCard">
                    <div className='title'>Dubai</div>

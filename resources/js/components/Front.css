@@ -95,14 +95,17 @@
     width: 300px !important;
     height: 270px;
     padding: 10px;
+    border-radius: 30px;
 
 }
 #social .termsCardText{
     font-size: 1rem !important;
     text-align: justify;
+    color: #000;
 }
 #social .termsCardTitle{
     font-size: 1.3rem;
+    color: #090d1c !important;
 }
   @media (min-width:600px){
     .affixTab {
@@ -179,8 +182,8 @@
     justify-content: space-around;
     align-items: center;
     transition: ease-in 0.3s;
-    background-color: #247E8E;
-    background: #247E8E;
+    background-color: #2390d5;
+    background: #2390d5;
     box-shadow: 0px 1.43rem 3.8rem 0.86rem rgb(0 0 0 / 70%);
     border-radius: 0px;
     transition: all 0.3s ease-out;
@@ -332,12 +335,12 @@
     padding: 12px;
   }
   .footerSocialCircle:hover {
-    background-color: #eb1597;
-    border: 2px solid #eb1597;
+    background-color: #1593e2;
+    border: 2px solid #1593e2;
   }
   .footerLinkTitle {
     font-size: 1.2rem;
-    color: #eb1597;
+    color: #1593e2;
   }
   .footerLinkText {
     font-size: 0.8rem;
@@ -345,7 +348,7 @@
     cursor: pointer;
   }
   .footerLinkText:hover {
-    color: #eb1597;
+    color: #1593e2;
   }
   .textBold {
     font-weight: bold;

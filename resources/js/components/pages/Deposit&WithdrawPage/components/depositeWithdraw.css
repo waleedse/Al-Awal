@@ -125,7 +125,7 @@ margin-top: -20px;
   box-shadow: 0 3px 3px 3px rgba(0, 0, 0, 0.25);
 }
 .depositCard .Img{
-  width: 70px;
+  width: 100%;
 }
 .depositCard .title{
   color: #090d1c;

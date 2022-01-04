@@ -17,79 +17,51 @@ class Affiliyate extends Component {
                 <div className="affliateBg">
                     <div>
                         <div className='title_'><span className='titleLg'>Affiliate</span><br /></div>
-                        <div className=' title2'>Best IB & Affiliate Program by Cabana Capitals</div>
+                        <div className=' title2' style={{fontSize:'16px'}}>As an affiliate, you don’t have to know forex or meet clients in person. All you need to have is a high-traffic blog, website and/or a big number of social media followers. You will be provided with a complete set of marketing tools to promote Al Awal Capital and once your referred clients start trading, you will receive your commission.
+
+</div>
                         </div>
                 </div>
-                <div className="main-section mb-5">
-                    <h1 className="texct-center atitle">Benefits of joining us</h1>
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-md-6 px-2 mt-3">
-                                <div className="card  card_light">
-                                    <h6 className="acard_text">
-                                        The right to work under the Cabana Capitals brand
-                                        which helps to raise trust amongst potential clients as
-                                        the brand is already recognized.
-                                        <br/>
-                                        <br/>
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon1.png"></img>
-                                </div>
-                            </div>
-                            <div className="col-md-6 px-2 mt-3">
-                                <div className="card  card_light">
-                                    <h6 className="acard_text">
-                                    High partnership rewards (60% of the revenue that Cabana
-                                    Capitals generates from all referred users and 25% of the
-                                    commission earned by all sub affiliates brought to the
-                                    company).
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon2.png"></img>
-                                </div>
-                            </div>
+                <div className="promoOpenAcc text-center">
+                    <h2 className='atitle'>How does it work?</h2>
 
-                            <div className="col-md-6 px-2 mt-3">
-                                <div className="card  card_dark">
-                                    <h6 className="acard_text text-light">
-                                    Minor initial investment.
-                                    <br/>
-                                    <br/>
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon3.png"></img>
-                                </div>
-                            </div>
-                            <div className="col-md-6 px-2 mt-3">
-                                <div className="card  card_dark">
-                                    <h6 className="acard_text text-light">
-                                    Opportunity to create a network of own developed
-                                    affiliates.
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon4.png"></img>
-                                </div>
-                            </div>
+                    <h4 className='text-light container' style={{fontSize:'16px'}}>
+                    Al Awal Capital pays you competitive fees for making client introductions to us.<br></br>
+                    <br></br>
+    As an Introducer, all you have to do is refer clients, and you will be rewarded for it. Each time one of your referred clients makes a trade, you will receive a commission and as long as they keep trading, you keep earning. The program comes at no cost, it's available to all our registered clients and is the perfect step towards building a vast network of partners.
+    <br></br>
+    <br></br>
+    An attractive and flexible rebate scheme is offered, where the rebates awarded to Introducers depends on the trading volume of their clients - the higher the volume, the bigger the rebates.
+    <br></br>
+    <br></br>
+    If you are an asset manager (fund or managed account) in the FX space, contact us about our capabilities to simplify your platform, execution and cost base.
+    <br></br>
+    <br></br>
+    Your firm client base would benefit from adding an additional platform to your multi-product offering.
+    <br></br>
+    <br></br>
+    We want to enhance the quality of service to your clients with a leading ECN foreign exchange platform run by a firm who wants you and your clients to succeed.
+                    </h4>
+                </div>
+                <div className='' style={{background:'#7ba2aa'}}>
+                    <div className=' container' >
+                        <div className='row'>
+                        <div className='col-md-8 text-light'>
+                            <h2 className='atitle text-left'>Why us?</h2>
 
-
-                            <div className="col-md-6 px-2 mt-3">
-                                <div className="card  card_light">
-                                    <h6 className="acard_text">
-                                    Opportunity to create and develop a good representative
-web page.<br/>
-                                    <br/>
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon5.png"></img>
-                                </div>
-                            </div>
-                            <div className="col-md-6 px-2 mt-3 ">
-                                <div className="card  card_light">
-                                    <h6 className="acard_text">
-                                    Overall support from the company: in establishing a new office, advertising and marketing activities,
-                                    staff training and general assisting in the daily business activities.
-
-                                    </h6>
-                                    <img className="acard_img" src="/assets/images/aicon6.png"></img>
-                                </div>
-                            </div>
+                            <li> For appropriate firms, we will support you as is necessary to make this an attractive revenue opportunity.</li>
+                            <br></br>
+                            <li> Agreeing to work with us involves a commitment from us to you, something you will find from very few other commercial organizations.
+</li>
+<br></br>
+                            <li> Al Awal Capital is staffed with dynamic; skilled individuals keen to promote our mutual success.</li>
+                            <br></br>
+                            <li>Your success is ours and vice versa.</li>
                         </div>
+                        <div className='col-md-4'>
+                            <img style={{width:'100%'}} src="/assets/images/bars.png"></img>
+                        </div>
+                    </div>
                     </div>
                 </div>
                 <StepsToOpenAccount></StepsToOpenAccount>

@@ -12,7 +12,7 @@ export default class TradingCurrencisePage extends Component {
            title="TRADE GOLD"
            title2="WITH Al Awal CAPITALS"
            text="Discover potential profit opportunities in the precious metals market"
-           bg="preciousmetal.jpg"
+           bg="precious_metal.jpg"
         />
        <div className="greyBg">
         <div className="basicRow text-center">
@@ -71,7 +71,7 @@ export default class TradingCurrencisePage extends Component {
             </div>
             <div className="col-md-6 col-sm-12">
               <img
-                src="/assets/images/precious_metals.jpg"
+                src="/assets/images/preciousmetal2inside.svg"
                 alt="of currencies"
                 className="fitImage verticallyCeneter mb-2"
               ></img>

@@ -13,10 +13,10 @@ export default class EducationPage extends Component {
       <div>
         <HeroSec3
           title="EDUCATION"
-          text="Learn about Forex Markets with Cabana Capitals"
-          bg="education.jpg"
+          text="Learn about Forex Markets with Al Awal Capitals"
+          bg="educationbanner.jpg"
         />
-        <div className="greyBg">
+        <div className="">
           <div className="container-fluid">
             <div className="row basicRow">
               <div className="col-12">
@@ -28,7 +28,7 @@ export default class EducationPage extends Component {
                 return (
                   <div className="col-md-4 col-sm-12 mb-3">
                     <div
-                      className="termsCardBox "
+                      className="termsCardBox card-1"
                       style={{ padding: "30px", height: "150px" }}
                     >
                       <div className="termsCardTitle">{item.title}</div>
@@ -46,7 +46,7 @@ export default class EducationPage extends Component {
                 return (
                   <div className="col-md-4 col-sm-12 mb-3">
                     <div
-                      className="termsCardBox "
+                      className="termsCardBox card-1"
                       style={{ padding: "30px", height: "150px" }}
                     >
                       <div className="termsCardTitle">{item.title}</div>

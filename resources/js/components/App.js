@@ -121,16 +121,16 @@ import Landing from "./HomePage/Landing";
           <Route path="/about-us" component={AboutUsPage2}></Route>
           <Route path="/trading-terms" component={TermsAndCondition}></Route>
           <Route path="/account-type" component={AccountTypes}></Route>
-          {/* <Route path="/affiliate-program" component={Affiliyate}></Route> */}
+          <Route path="/affiliate-program" component={Affiliyate}></Route>
           {/* <Route
             path="/mission-and-values"
             component={MissionAndValues}
           ></Route> */}
-          {/* <Route path="/education" exact component={EducationPage}></Route> */}
-          {/* <Route
+          <Route path="/education" exact component={EducationPage}></Route>
+          <Route
             path="/analytics"
             component={EducationsMetaTrader4}
-          ></Route> */}
+          ></Route>
           <Route
             path="/trading-instruments"
             component={TradingInstrumentPage}
@@ -160,7 +160,7 @@ import Landing from "./HomePage/Landing";
           {/* <Route path="/newPromotion" component={NewPromo35PerB}></Route> */}
           {/* <Route path="/platform/mt5" component={PlatformMT5}></Route> */}
           {/* <Route path="/PAMM" component={PAMMpage}></Route> */}
-          {/* <Route path="/our-location" component={OurLocationPage}></Route> */}
+          <Route path="/our-location" component={OurLocationPage}></Route>
           <Route path="/cookie-policy" component={CookiePolicy}></Route>
           <Route path="/regulatory-compliance" component={CompliancePage}></Route>
           <Route path="/privacy-policy" component={PrivacyPolicy}></Route>

@@ -42,13 +42,13 @@ export default function TradingCurrenciesDetail() {
           <div className="row basicRow">
             <div className="col-md-6 col-sm-12">
               <img
-                src="/assets/images/currencyside.jpg"
+                src="/assets/images/crunnciesinside.svg"
                 alt="of currencies"
                 className="fitImage verticallyCeneter mb-2"
               ></img>
             </div>
             <div className="col-md-6 col-sm-12">
-              <h4 className="aboutDetailTitle">What is Currency Trading?</h4>
+              <h4 className="aboutDetailTitle text-light">What is Currency Trading?</h4>
               <p className="aboutDetailText">
                 Currencies are always traded in pairs, with the first currency
                 in the pair called the base currency and the second called the

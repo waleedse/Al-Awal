@@ -11,13 +11,14 @@
   height: 230px;
   background-color: #fff;
   text-align: center;
+  border-radius: 25px;
 }
 .termsCardInfoBox {
   padding: 30px;
-  border-top: 13px solid #eb1597;
+  border-top: 13px solid #090909;
 }
 .termsCardTitle {
-  color: #eb1597;
+  color: #090909;
   font-size: 0.8rem;
   font-weight: bold;
 }

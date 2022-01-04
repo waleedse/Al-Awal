@@ -13,7 +13,7 @@ export default class TradingCurrencisePage extends Component {
            title="Trade global market indices"
            title2="WITH Al Awal CAPITALS"
            text="Discover your trading opportunity with popular stock portfolios"
-           bg="cfdbanner.jpg"
+           bg="cfd_.jpg"
         />
        <div className="greyBg">
         <div className="basicRow text-center">
@@ -82,7 +82,7 @@ export default class TradingCurrencisePage extends Component {
             </div>
             <div className="col-md-6 col-sm-12">
               <img
-                src="/assets/images/cfdside.jpg"
+                src="/assets/images/cfd2inside.svg"
                 alt="of currencies"
                 className="fitImage verticallyCeneter mb-2"
               ></img>
