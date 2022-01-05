@@ -29,7 +29,7 @@ class ProtectionofFunds extends Component {
 
                 <div className="greyBg">
                 <div className="basicRow  text-center">
-                    <h2 className="aboutDetailTitle" style={{fontSize:'38px'}}>
+                    <h2 className="aboutDetailTitle text-light" style={{fontSize:'38px'}}>
                    Our Best Practices for the Protection of
                     <br />  Your Funds
                     </h2>

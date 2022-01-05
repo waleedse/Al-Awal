@@ -9,7 +9,7 @@ class Affiliyate extends Component {
             <div>
                 {/* <HeroSec2
                   title="Affiliate"
-                  text="Best IB & Affiliate Program by Cabana Capitals"
+                  text="Best IB & Affiliate Program by Cabana Markets"
                   bg="affiliyatebg.png"
                 >
 
