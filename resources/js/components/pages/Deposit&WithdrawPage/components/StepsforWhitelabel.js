@@ -15,14 +15,14 @@ class StepsToOpenAccount extends Component {
           <div className="col-lg-1 col-md-6 col-sm-12 mt-5 depositCard"></div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/support.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/contactus.svg" alt="card"></img></div>
               <h4 className="title">Contact Us</h4>
               <p className="text">Contact us for a Quote</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/deposite2.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/terms.svg" alt="card"></img></div>
               <h4 className="title">Terms</h4>
               <p className="text">
               Finalise the Terms
@@ -31,7 +31,7 @@ class StepsToOpenAccount extends Component {
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
             <div className="outerDiv">
-            <div className="centerDiv">  <img className="Img" src="/assets/images/customer.png" alt="card"></img></div>
+            <div className="centerDiv">  <img className="Img" src="/assets/images/services.svg" alt="card"></img></div>
               <h4 className="title">Services</h4>
               <p className="text">Start using White Label services
 </p>
