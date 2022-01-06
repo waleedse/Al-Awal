@@ -13,7 +13,7 @@ export default class TradingCurrencisePage extends Component {
            title="TRADE OIL AND GAS"
            title2="WITH Al Awal CAPITALS"
            text="Discover trading opportunities in some of the world’s biggest oil and natural gas markets."
-           bg="oil_and_gas.jpg"
+           bg="comiditiesbanner.jpg"
         />
        <div className="greyBg">
         <div className="basicRow text-center">
@@ -82,7 +82,7 @@ export default class TradingCurrencisePage extends Component {
             </div>
             <div className="col-md-6 col-sm-12">
               <img
-                src="/assets/images/oilandgasside.jpg"
+                src="/assets/images/comidities.svg"
                 alt="of currencies"
                 className="fitImage verticallyCeneter mb-2"
               ></img>

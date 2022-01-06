@@ -44,7 +44,7 @@ class PromotionDropDown extends Component {
                         }
 
                     </div>
-                    {
+                    {/* {
                         this.props.country != 'India' ?
                         <div
                         className="headerDropDownItemDiv"
@@ -60,7 +60,7 @@ class PromotionDropDown extends Component {
                         </a>
                     </div>
                     : null
-                    }
+                    } */}
 
                     {/* <div
             className="headerDropDownItemDiv"

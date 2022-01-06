@@ -15,7 +15,7 @@ export default class Footer extends Component {
               ></img>
               <h3 className="footerTitle text-light">Registered Office</h3>
               <p className="footerText">
-                {/* Cabana Capitals */}
+                {/* Al Awal Capitals */}
                  <br />
                 Suit 305, Griffith Corporate Centre <br />
                 Beachmont, P.O.Box 1510, Kingstown St. <br />
@@ -96,7 +96,7 @@ export default class Footer extends Component {
         </div>
         <div className="row footerSecondRow">
           {/* <p className="footerText footerText_justify">
-            <span className="textBold">Legal:</span> Cabana Capitals Limited is
+            <span className="textBold">Legal:</span> Al Awal Capitals Limited is
             incorporated in St. Vincent & the Grenadines as an International
             Broker Company with the registration number 24185 IBC 2017. The
             objects of the Company are all subject matters not forbidden by
@@ -115,9 +115,9 @@ export default class Footer extends Component {
             your level of experience, investment objectives and seek independent
             financial advice if necessary. It is the responsibility of the
             Client href ascertain whether he/she is permitted href use the services
-            of the Cabana Capitals based on the legal requirements in his/her
-            country of residence. Please read Cabana Capitals™ full Risk
-            Disclosure. Regional Restrictions: Cabana Capitals does not provide
+            of the Al Awal Capitals based on the legal requirements in his/her
+            country of residence. Please read Al Awal Capitals™ full Risk
+            Disclosure. Regional Restrictions: Al Awal Capitals does not provide
             services href residents of the EU Region, USA , Canada , Belgium and
             FATF Black Listed Countries. Find out more in the Account Opening
             section of our FAQs.
@@ -130,7 +130,7 @@ export default class Footer extends Component {
         </div>
         {/* <div className="row footerRightsRow">
           <h5 className="footerRightsText">
-            Copyright 2021 {"\u00A9"} Cabana Capitals All Right Reserved
+            Copyright 2021 {"\u00A9"} Al Awal Capitals All Right Reserved
           </h5>
         </div> */}
       </div>

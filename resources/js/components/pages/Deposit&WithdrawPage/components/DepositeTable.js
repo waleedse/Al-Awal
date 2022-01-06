@@ -30,7 +30,8 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                   Coming Soon
+                     {/* <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button> */}
                    </td>
                  </tr>
                  <tr>
@@ -46,7 +47,8 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                       Coming Soon
+                     {/* <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button> */}
                    </td>
                  </tr>
                  <tr>
@@ -62,7 +64,8 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                   Coming Soon
+                     {/* <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button> */}
                    </td>
                  </tr>
                  <tr>
@@ -78,7 +81,8 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                   Coming Soon
+                     {/* <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button> */}
                    </td>
                  </tr>
                  <tr>
@@ -94,7 +98,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr>
                  <tr>
@@ -110,7 +114,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr>
                  <tr>
@@ -126,7 +130,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Instant</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr><tr>
                    <td>
@@ -141,7 +145,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Within 1 Business Day</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr>
                  <tr>
@@ -160,7 +164,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Within 1 Business Day</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr>
                  <tr>
@@ -182,7 +186,7 @@ class DEPOSITTable extends Component {
                    <td>No Commision*</td>
                    <td>Within 1 Business Day</td>
                    <td className="text-center">
-                     <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/login/','_self')}} className="depositeOutlineButton">DEPOSIT</button>
+                     <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/login','_self')}} className="depositeOutlineButton">DEPOSIT</button>
                    </td>
                  </tr>
                </tbody>

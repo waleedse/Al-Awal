@@ -335,7 +335,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
               )}
               {this.state.activeDropDown === "promotion" && (
                 <>
-                  <HeaderMobileLastDropDown activeDropDown={true} title="Cabana Invest">
+                  <HeaderMobileLastDropDown activeDropDown={true} title="Al Awal Invest">
                     <div
                       onClick={() => {
                         this.handleChangeDropDown(null);
@@ -359,7 +359,7 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
               )}
               {this.state.activeDropDown === "analytic" && (
                 <>
-                 <HeaderMobileLastDropDown activeDropDown={true} title="Cabana Invest">
+                 <HeaderMobileLastDropDown activeDropDown={true} title="Al Awal Invest">
                     <div
                       onClick={() => {
                         this.handleChangeDropDown(null);

@@ -15,7 +15,7 @@ class Landing extends Component {
                                             <div className="uk-overlay mt-5">
                                                 <h1>World's leading Most Trusted <br/> Forex Broker.</h1>
                                                 <p className="uk-text-lead uk-visible@m">Trade forex, commodities, synthetic and stock indices from a single account</p>
-                                                <a href="https://client.alawalcapital.co.uk/#/auth/lohin" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
+                                                <a href="https://client.alawalcapital.co.uk/#/auth/login" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
                                                 <a href="https://client.alawalcapital.co.uk/#/auth/signup" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
                                             </div>
                                         </div>
@@ -234,8 +234,8 @@ to assist you via various contact channels
     </div>
   </div>
 </div>
-<div className="uk-section in-liquid-14">
-  <div className="uk-container">
+<div className="uk-section in-liquid-14 py-0">
+  <div className="uk-container mt-0 mb-0">
     <div className="uk-grid-large uk-flex uk-flex-middle" data-uk-grid>
       <div className="uk-width-expand@m">
         <h2>A broker you can <span className="in-highlight">Trust</span>.</h2>
@@ -294,7 +294,7 @@ to assist you via various contact channels
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>
           <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Live Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
+          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
         </div>
       </div>
       <div>
@@ -307,7 +307,7 @@ to assist you via various contact channels
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>
           <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Live Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
+          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
 
         </div>
       </div>
@@ -321,7 +321,7 @@ to assist you via various contact channels
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>
           <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Live Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
+          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
 
         </div>
       </div>
@@ -379,7 +379,7 @@ to assist you via various contact channels
             <p className="uk-text-small uk-text-uppercase uk-margin-remove-top">Minimum Deposit</p>
           </div>
           <div>
-            <h2 className="uk-margin-small-bottom">Upto 500:1
+            <h2 className="uk-margin-small-bottom">Upto 1:500
 </h2>
             <p className="uk-text-small uk-text-uppercase uk-margin-remove-top">Leverage</p>
           </div>

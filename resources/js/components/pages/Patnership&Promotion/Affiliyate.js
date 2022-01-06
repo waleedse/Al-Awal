@@ -9,7 +9,7 @@ class Affiliyate extends Component {
             <div>
                 {/* <HeroSec2
                   title="Affiliate"
-                  text="Best IB & Affiliate Program by Cabana Markets"
+                  text="Best IB & Affiliate Program by Al Awal Markets"
                   bg="affiliyatebg.png"
                 >
 
@@ -47,7 +47,7 @@ class Affiliyate extends Component {
                     <div className=' container' >
                         <div className='row'>
                         <div className='col-md-8 text-light'>
-                            <h2 className='atitle text-left'>Why us?</h2>
+                            <h2 className='atitle text-left px-0'>Why us?</h2>
 
                             <li> For appropriate firms, we will support you as is necessary to make this an attractive revenue opportunity.</li>
                             <br></br>

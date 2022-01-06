@@ -8,11 +8,11 @@ export default class TradingInstrumentComponent extends Component {
       <div id="trading_instruments">
         <div className="greyBg">
           <div className="basicRow  text-center">
-            <h4 className="aboutDetailTitle">
+            <h4 className="aboutDetailTitle text-light">
               Trade with fast execution and
               <br /> tight spreads
             </h4>
-            <p className="textFont">
+            <p className="textFont text-center">
               From currency trading to speculating on the price movements of
               your favourite trading instruments – Al Awal has it all.
               Enter the vast, complex and exhilarating world of the financial

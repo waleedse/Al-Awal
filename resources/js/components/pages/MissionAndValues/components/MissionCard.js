@@ -76,8 +76,8 @@ export default class MissionCard extends Component {
               </div>
               <h5 className="missionTitle mt-2"> Respect</h5>
               <p className="missionText">
-                At Cabana Capital, we have utmost respect for our clients, our
-                work, our community and ourselves. Cabana Capital is creative,
+                At Al Awal Capital, we have utmost respect for our clients, our
+                work, our community and ourselves. Al Awal Capital is creative,
                 modern, progressive, and trustworthy.
               </p>
             </div>

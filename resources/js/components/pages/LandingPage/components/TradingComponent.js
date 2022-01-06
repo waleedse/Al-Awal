@@ -16,7 +16,7 @@ export default class TradingComponent extends Component {
                 office with you.
               </p>
               <div className="tradingButtons">
-                {/* <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} className="btnTradingLive">OPEN LIVE ACCOUNT</button> */}
+                {/* <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="btnTradingLive">OPEN LIVE ACCOUNT</button> */}
                 <button onClick={()=>{ window.open('/','_self')}} className="btnTradingDemo">Download</button>
               </div>
             </div>

@@ -8,7 +8,7 @@ const NewPromo35PerB = () => {
                <div className='title'><span className='titleLg'>GET</span><br/>
    <span className="perText"> 35%</span> <br/> OF BONUS AS</div>
    <div className='title title2'>TRADING ACCOUNT DEPOSIT</div>
-   <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
+   <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
           <a href="/bonus-terms"> <div className='text'>*Terms and conditions apply</div></a></div>
            </div>
 
@@ -16,8 +16,8 @@ const NewPromo35PerB = () => {
 <div className='basicRow promoUpto'>
 
    <div className='mainFlex'> <div className="contentSec">
-        <div className='title'>Cabana Capitals brings a whopping 35% trading bonus (up to $1,000) to your trading account deposit</div>
-        <div className='point'><img src="/assets/images/promoDone.png" className="pointDone" ></img> <span className='text'>Get up to $1,000 in Trading Bonus from Cabana </span></div>
+        <div className='title'>Al Awal Capitals brings a whopping 35% trading bonus (up to $1,000) to your trading account deposit</div>
+        <div className='point'><img src="/assets/images/promoDone.png" className="pointDone" ></img> <span className='text'>Get up to $1,000 in Trading Bonus from Al Awal </span></div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Capitals to achieve your Financial goals
  </span></div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Trade with high margin level
@@ -44,10 +44,10 @@ const NewPromo35PerB = () => {
                       <div className="textFlex"><span className="number">1</span>
                       <div className="innerTextFlex"><div className="title">OPEN AN ACCOUNT</div>
                       <div className="text">Open your live trading account  <br/>
-via Cabana Capitals</div></div></div>
+via Al Awal Capitals</div></div></div>
 <img src="/assets/images/promoNewacc.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 
-          <div className='btnFlex'><button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button> <button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button></div>
+          <div className='btnFlex'><button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button> <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button></div>
                   </div>
 
                   <div className="imgSec d-none d-md-block">
@@ -100,7 +100,7 @@ BONUS</div>
 <img src="/assets/images/promoTrade.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 <div className="text">Start trading on more<br/>
 than 80 instruments</div>
-<button onClick={()=>{ window.open('https://secure.cabanacapitals.com/register/','_self')}} className="getStarted">GET STARTED</button>
+<button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="getStarted">GET STARTED</button>
                   </div>
 
 

@@ -210,8 +210,9 @@
 }
 .acard_text{
     color: #090d1c;
-    font-size: 18px;
+    font-size: 16px;
     padding: 20px;
+    font-weight: 400;
 }
  .title_{
     font: bold 62px gothic  ;
