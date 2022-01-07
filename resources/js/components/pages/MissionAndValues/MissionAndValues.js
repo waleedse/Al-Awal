@@ -11,7 +11,7 @@ export default class MissionAndValues extends Component {
     return (
       <div>
         <HeroSection
-          title="Al Awal CAPITALS "
+          title="Al Awal Markets "
           title2="MISSION AND VALUES"
         ></HeroSection>
         <MissionCard />

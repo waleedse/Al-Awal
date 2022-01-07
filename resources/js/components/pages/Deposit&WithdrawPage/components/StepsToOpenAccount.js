@@ -33,7 +33,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/earn.svg" alt="card"></img></div>
               <h4 className="title">fund</h4>
-              <p className="text">Login to Al  Awal Capitals
+              <p className="text">Login to Al  Awal Markets
       and fund
       your account</p>
             </div>

@@ -16,9 +16,9 @@ const NewPromo35PerB = () => {
 <div className='basicRow promoUpto'>
 
    <div className='mainFlex'> <div className="contentSec">
-        <div className='title'>Al Awal Capitals brings a whopping 35% trading bonus (up to $1,000) to your trading account deposit</div>
+        <div className='title'>Al Awal Markets brings a whopping 35% trading bonus (up to $1,000) to your trading account deposit</div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone" ></img> <span className='text'>Get up to $1,000 in Trading Bonus from Al Awal </span></div>
-        <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Capitals to achieve your Financial goals
+        <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Markets to achieve your Financial goals
  </span></div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Trade with high margin level
  </span></div>
@@ -44,7 +44,7 @@ const NewPromo35PerB = () => {
                       <div className="textFlex"><span className="number">1</span>
                       <div className="innerTextFlex"><div className="title">OPEN AN ACCOUNT</div>
                       <div className="text">Open your live trading account  <br/>
-via Al Awal Capitals</div></div></div>
+via Al Awal Markets</div></div></div>
 <img src="/assets/images/promoNewacc.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 
           <div className='btnFlex'><button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button> <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button></div>

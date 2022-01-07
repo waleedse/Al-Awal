@@ -11,7 +11,7 @@ export default class AboutUsPage extends Component {
       <div>
         <HeroSection
           title="ABOUT US"
-          text="Al Awal Capitals -True ECN Forex Broker"
+          text="Al Awal Markets -True ECN Forex Broker"
         />
         <AboutUsDetails />
         <TradingComponent />

@@ -117,6 +117,9 @@
 
   }
   @media (max-width:480px){
+    .img_sheild{
+        margin-top: -110px;
+    }
     .hide_on_mob{
       display: none;
     }
@@ -189,6 +192,7 @@
     transition: all 0.3s ease-out;
     cursor: default;
   }
+
   .navbar {
     padding: 0;
     align-items: flex-end;

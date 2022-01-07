@@ -51,7 +51,7 @@ class Landing extends Component {
                                     <div className="uk-width-5-6@m pt-5">
                                         <div className="uk-grid uk-child-width-1-6@m uk-text-center" data-uk-grid>
                                             <div className="uk-width-1-1">
-                                                <p className="uk-text-lead">Why Trade with Al Awal Capital</p>
+                                                <p className="uk-text-lead">Why Trade with Al Awal Markets</p>
                                             </div>
                                             <div className="slide-icons-1">
                                                 <img src="img/in-lazy.gif" data-src="img/in-liquid-icon-5.svg" alt="sample-icon" width={48} height={48} data-uk-img />
@@ -87,7 +87,7 @@ customer support<i className="fas fa-angle-right uk-margin-small-left" /></a>
                          <div className="container-fluid">
               <div className="row tradeWithRow ">
                 <div className="col-12 ">
-                  <h3 className="tradeWithTitle">Why Trade with Al Awal Capital </h3>
+                  <h3 className="tradeWithTitle">Why Trade with Al Awal Markets </h3>
                   {/* <p className="tradeWithText">
                   Trade multiple financial products with the most reliable Forex Broker
                   </p> */}
@@ -271,7 +271,7 @@ to assist you via various contact channels
         <p className="uk-text-small">For additional information view our Investors Relations - <a href="#">clicking here.</a></p> */}
       </div>
       <div className="uk-width-1-2@m">
-        <img className="uk-width-1-1" src="/img/8.svg" data-src="img/in-liquid-object-5.svg" alt="sample-image" data-width data-height data-uk-img />
+        <img className="uk-width-1-1 img_sheild"  src="/img/8.svg" data-src="img/in-liquid-object-5.svg" alt="sample-image" data-width data-height data-uk-img />
       </div>
     </div>
   </div>
@@ -287,9 +287,9 @@ to assist you via various contact channels
       <div>
         <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
           {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-16.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Beginners</h3>
+          <h3 className="uk-margin-top">Cent Account</h3>
           <p>Spreads Starts From 1 PIP</p>
-          <p>Minimum Deposit US$1</p>
+          <p>Minimum Deposit US$10</p>
           <p>Trade Size 0.01 Lot</p>
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>
@@ -300,9 +300,9 @@ to assist you via various contact channels
       <div>
         <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
           {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-17.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Positional</h3>
+          <h3 className="uk-margin-top">Standard Account</h3>
           <p>Spreads Starts From 1 PIP</p>
-          <p>Minimum Deposit US$10000</p>
+          <p>Minimum Deposit US$50</p>
           <p>Trade Size 0.01 Lot</p>
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>
@@ -314,9 +314,9 @@ to assist you via various contact channels
       <div>
         <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
           {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-18.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Professional</h3>
+          <h3 className="uk-margin-top">Trader Account</h3>
           <p>Spreads Starts From 0.8 PIP</p>
-          <p>Minimum Deposit US$500</p>
+          <p>Minimum Deposit US$100</p>
           <p>Trade Size 0.01 Lot</p>
           <p>Max Leverage 1:500</p>
           <p>Hedging Allowed</p>

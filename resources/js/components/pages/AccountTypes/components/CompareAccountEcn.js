@@ -8,7 +8,7 @@ export default class CampareAccountStandard extends Component {
           <div className="compareAccountCard">
           <div className="compareAccountActions">
               <h4 className="compareAccountInfoTitle ">Trader</h4>
-              <p className="compareAccountPrice">$250/min</p>
+              <p className="compareAccountPrice">$100/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
                 <div onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
@@ -56,11 +56,11 @@ export default class CampareAccountStandard extends Component {
               <h4 className="title d-inine "><span className="opacityZero">Commission Markup</span></h4>
               <h2 className="compareAccountNorText"> Nil</h2>
               <h4 className="title d-inine "><span className="opacityZero">Minimum Deposit</span></h4>
-              <h2 className="compareAccountNorText"> $250</h2>
+              <h2 className="compareAccountNorText"> $100</h2>
               <h4 className="title d-inine "><span className="opacityZero">Leverage</span></h4>
               <h2 className="compareAccountNorText"> Up to 1:500 for currencies</h2>
               <h4 className="title d-inine "><span className="opacityZero">Instruments</span></h4>
-             <h2 className="compareAccountNorText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, GER30</h2>
+             <h2 className="compareAccountNorText"> Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, Dax 30</h2>
              <h4 className="title d-inine "><span className="opacityZero">SWAP</span></h4>
              <h2 className="compareAccountNorText"> <p className="text">Swap Free</p></h2>
              <h4 className="title d-inine "><span className="opacityZero">OVERNIGHT COMMISSIONS</span></h4>
@@ -80,8 +80,9 @@ export default class CampareAccountStandard extends Component {
              <h4 className="title d-inine "><span className="opacityZero">EXECUTION TIME</span></h4>
              <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
              <h4 className="title d-inine "><span className="opacityZero">MAXIMUM ORDERS</span></h4>
-             <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
-
+             <h2 className="compareAccountNorText"> 100</h2>
+             <h4 className="title d-inine "><span className="opacityZero">IB Rebate</span></h4>
+             <h2 className="compareAccountNorText"> From $2 to $4</h2>
               <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
                 GET STARTED
               </button>
@@ -92,8 +93,8 @@ export default class CampareAccountStandard extends Component {
         <div className="col-md-4 col-sm-12 px-0">
           <div className="compareAccountCard">
           <div className="compareAccountActions compareAccountBg1">
-              <h4 className="compareAccountInfoTitle ">ELITE</h4>
-              <p className="compareAccountPrice">$500/min</p>
+              <h4 className="compareAccountInfoTitle ">ECN</h4>
+              <p className="compareAccountPrice">$200/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
                 <div onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
@@ -137,13 +138,13 @@ export default class CampareAccountStandard extends Component {
               <h4 className="title d-inine "><span className="">Spread</span></h4>
               <p className="compareAccountNorText">From 0.0</p>
               <h4 className="title d-inine "><span className="">Commission Markup</span></h4>
-              <h2 className="compareAccountNorText"> $7</h2>
+              <h2 className="compareAccountNorText"> $5.00</h2>
               <h4 className="title d-inine "><span className="">Minimum Deposit</span></h4>
-              <h2 className="compareAccountNorText"> $500</h2>
+              <h2 className="compareAccountNorText"> $200</h2>
               <h4 className="title d-inine "><span className="">Leverage</span></h4>
-              <h2 className="compareAccountNorText"> Up to 1:500 for currencies</h2>
+              <h2 className="compareAccountNorText"> Up to 1:200 for currencies</h2>
               <h4 className="title d-inine "><span className="">Instruments</span></h4>
-             <h2 className="compareAccountNorText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, GER30</h2>
+             <h2 className="compareAccountNorText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, Dax 30</h2>
              <h4 className="title d-inine "><span className="">SWAP</span></h4>
              <h2 className="compareAccountNorText"> <p className="text">Swap Free</p></h2>
              <h4 className="title d-inine "><span className="">OVERNIGHT COMMISSIONS</span></h4>
@@ -163,8 +164,9 @@ export default class CampareAccountStandard extends Component {
              <h4 className="title d-inine "><span className="">EXECUTION TIME</span></h4>
              <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
              <h4 className="title d-inine "><span className="">MAXIMUM ORDERS</span></h4>
-             <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
-
+             <h2 className="compareAccountNorText"> 100</h2>
+             <h4 className="title d-inine "><span className="">IB Rebate</span></h4>
+             <h2 className="compareAccountNorText"> From $2 to $3</h2>
               <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
                 GET STARTED
               </button>
@@ -175,8 +177,8 @@ export default class CampareAccountStandard extends Component {
         <div className="col-md-4 col-sm-12 px-0">
           <div className="compareAccountCard">
           <div className="compareAccountActions compareAccountBg3">
-              <h4 className="compareAccountInfoTitle ">RAW ECN</h4>
-              <p className="compareAccountPrice">$1,000/min</p>
+              <h4 className="compareAccountInfoTitle ">PRO</h4>
+              <p className="compareAccountPrice">$20,000/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
                 <div onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
@@ -223,11 +225,11 @@ export default class CampareAccountStandard extends Component {
               <h4 className="title d-inine "><span className="opacityZero">Commission Markup</span></h4>
               <h2 className="compareAccountNorText"> $5</h2>
               <h4 className="title d-inine "><span className="opacityZero">Minimum Deposit</span></h4>
-              <h2 className="compareAccountNorText"> $1,000</h2>
+              <h2 className="compareAccountNorText"> $20,000</h2>
               <h4 className="title d-inine "><span className="opacityZero">Leverage</span></h4>
-              <h2 className="compareAccountNorText"> Up to 1:500 for currencies</h2>
+              <h2 className="compareAccountNorText"> Up to 1:100 for currencies</h2>
               <h4 className="title d-inine "><span className="opacityZero">Instruments</span></h4>
-             <h2 className="compareAccountNorText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, GER30</h2>
+             <h2 className="compareAccountNorText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, Dax 30</h2>
              <h4 className="title d-inine "><span className="opacityZero">SWAP</span></h4>
              <h2 className="compareAccountNorText"> <p className="text">Swap Free</p></h2>
              <h4 className="title d-inine "><span className="opacityZero">OVERNIGHT COMMISSIONS</span></h4>
@@ -247,8 +249,9 @@ export default class CampareAccountStandard extends Component {
              <h4 className="title d-inine "><span className="opacityZero">EXECUTION TIME</span></h4>
              <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
              <h4 className="title d-inine "><span className="opacityZero">MAXIMUM ORDERS</span></h4>
-             <h2 className="compareAccountNorText"> Execution in under 0.1 second</h2>
-
+             <h2 className="compareAccountNorText">100</h2>
+             <h4 className="title d-inine "><span className="opacityZero">IB Rebate</span></h4>
+             <h2 className="compareAccountNorText"> No Comission</h2>
               <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 ">
                 GET STARTED
               </button>

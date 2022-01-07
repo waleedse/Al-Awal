@@ -12,7 +12,7 @@ class Mt4 extends Component {
                     </div>
                 </div>
                 <div className="container  ">
-                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Capitals Mt5 Platform</h1>
+                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Markets Mt5 Platform</h1>
                     <h6 className="acard_text text-left">
                         Successful trading on financial markets begins with a comfortable and multi-functional trading platform. MetaTrader 5 is the best choice for the modern trader!<br/><br/>
 

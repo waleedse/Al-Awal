@@ -18,7 +18,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/support.png" alt="card"></img></div>
               <h4 className="title">REGISTER</h4>
-              <p className="text">Register to Al Awal Capitals IB Program & get your referral link</p>
+              <p className="text">Register to Al Awal Markets IB Program & get your referral link</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">

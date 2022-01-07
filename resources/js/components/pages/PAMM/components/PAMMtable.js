@@ -76,7 +76,7 @@ export default function TopSearchSelect() {
             <th class="sorting">Performance</th>
             <th class="sorting">Days Opened</th>
             <th class="sorting">Number of Investors</th>
-            <th class="sorting">Manager Capital</th>
+            <th class="sorting">Manager Markets</th>
             <th class="sorting">Action</th>
           </tr>
           </thead>

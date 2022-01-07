@@ -12,7 +12,7 @@ class Mt4 extends Component {
                     </div>
                 </div>
                 <div className="container  ">
-                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Capitals Mt4 Platform</h1>
+                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Markets Mt4 Platform</h1>
                     <h6 className="acard_text text-left">
                     MT4 is compatible with various operating system, so don't worry if you are not running the
                     latest version of Microsoft Windows. <br/><br/> The user interface is user-friendly and simple. On top

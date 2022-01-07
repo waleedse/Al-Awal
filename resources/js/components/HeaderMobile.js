@@ -103,13 +103,13 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
               <FontAwesomeIcon icon={faAngleRight}></FontAwesomeIcon>
             </div>
 
-            <div
+            {/* <div
               className="sideBarItem"
               onClick={() => this.handleChangeDropDown("analytic")}
             >
               <span> Social & PAMM </span>
               <FontAwesomeIcon icon={faAngleRight}></FontAwesomeIcon>
-            </div>
+            </div> */}
             {/* <div
               className="sideBarItem"
               onClick={() => this.handleChangeDropDown("pamm")}
@@ -329,6 +329,9 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         {/* <a href="https://blog.cabanacapitals.com">
                         <div className="headerDropDownItem">Analytics</div>
                         </a> */}
+                         <Link to="/education">
+                        <div className="sideBarItem">Education</div>
+                        </Link>
                     </div>
                   </HeaderMobileLastDropDown>
                 </>
@@ -349,15 +352,15 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         {/* <Link to="/PAMM">
                         <div className="sideBarItem">PAMM Manager</div>
                         </Link> */}
-                        {/* <Link to="/PAMM">
-                        <div className="sideBarItem">Copy Trading</div>
+                        {/* <Link to="/education">
+                        <div className="sideBarItem">Education</div>
                         </Link> */}
                     </div>
                   </HeaderMobileLastDropDown>
 
                 </>
               )}
-              {this.state.activeDropDown === "analytic" && (
+              {/* {this.state.activeDropDown === "analytic" && (
                 <>
                  <HeaderMobileLastDropDown activeDropDown={true} title="Al Awal Invest">
                     <div
@@ -367,22 +370,14 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                       {/* <a href="https://social.cabanacapitals.com/portal/login">
-                        <div className="sideBarItem">Social Login</div>
-                        </a> */}
-                       {/* <Link to="/social-trading">
-                        <div className="sideBarItem">Social Trading</div>
-                        </Link>
-                        <Link to="/PAMM">
-                        <div className="sideBarItem">PAMM Manager</div>
-                        </Link> */}
+
                         <Link to="/strategy-manager">
                         <div className="sideBarItem">PAMM Strategy Manager</div>
                         </Link>
                     </div>
                   </HeaderMobileLastDropDown>
                 </>
-              )}
+              )} */}
 
 
             </div>

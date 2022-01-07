@@ -121,7 +121,7 @@ class TraidingMemory extends Component {
                                 <table className="table table-hover ">
                                     <tbody>
                                         <tr className="stats_table_tr"><td >Number Of Investors	</td><td className=" stats_figure "  >{this.state.data.numberOfInvestors}</td></tr>
-                                        <tr className="stats_table_tr"><td >Manager's Capital	</td><td className="stats_figure"  >+{this.state.data.managerCapital.toFixed(2)}</td></tr>
+                                        <tr className="stats_table_tr"><td >Manager's Markets	</td><td className="stats_figure"  >+{this.state.data.managerCapital.toFixed(2)}</td></tr>
                                         <tr className="stats_table_tr"><td >Length Of Trading History	</td><td className="stats_figure"  >+{this.state.data.riskData.days}</td></tr>
                                         <tr className="stats_table_tr"><td >Profitability</td><td className="stats_figure"  >+{this.state.data.riskData.profitCount}</td></tr>
                                         <tr className="stats_table_tr"><td >Profit Factor	</td><td className="stats_figure"  >+{this.state.data.riskData.profitFactor.toFixed(2)}</td></tr>

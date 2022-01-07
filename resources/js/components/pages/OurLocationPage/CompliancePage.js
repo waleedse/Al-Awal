@@ -9,8 +9,8 @@ const CompliancePage = () => {
                 <div className="basicRow">
                     <div className='basicText'>Prospective clients should study the following risk warnings very carefully. Please note that we do not explore or explain all the risks involved when dealing in Financial Instruments. We outline the general nature of the risks of dealing in Financial Instruments on a fair and non-misleading basis.<br/><br/>
 
-                    In particular, Contracts for Difference ('CFDs') are complex financial products and not suitable for all investors. CFDs, are leveraged products that mature when you choose to close an existing open position. By investing in CFDs, you assume a high level of risk and can result in the loss of all of your invested capital.</div>
-               
+                    In particular, Contracts for Difference ('CFDs') are complex financial products and not suitable for all investors. CFDs, are leveraged products that mature when you choose to close an existing open position. By investing in CFDs, you assume a high level of risk and can result in the loss of all of your invested Markets.</div>
+
                <div className="basicTitle">Acknowledgement</div>
                <div className="basicText">1. The Customer shall be responsible for the risks of financial losses caused by the failure of information, communication, electronic and other systems. The result of any system failure may be that his order is either not executed according to his instructions or it is not executed at all. The Company does not accept any liability in the case of such a failure.
 

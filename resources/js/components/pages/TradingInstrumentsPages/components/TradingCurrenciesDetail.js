@@ -81,7 +81,7 @@ export default function TradingCurrenciesDetail() {
                 Exotic currency pairs are not as widely traded as the majors or
                 the minors. They are composed of a major currency pair coupled with
                 the currency of a developing economy. Some examples that Al Awal
-                Capitals offers include the USD/TRY and the EUR/PLN
+                Markets offers include the USD/TRY and the EUR/PLN
               </p>
             </div>
           </div>

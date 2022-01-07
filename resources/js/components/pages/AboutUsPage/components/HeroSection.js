@@ -7,7 +7,7 @@ export default class HeroSection extends Component {
         <div className="heroRow">
           <h1 className="heroTitle">{this.props.title}</h1>
           <h1 className="heroTitle">{this.props.title2}</h1>
-          <p className="heroText col-md-8">{this.props.text}</p>
+          <p className="heroText col-md-8 text-justify">{this.props.text}</p>
         </div>
       </div>
     );
