@@ -234,7 +234,7 @@ to assist you via various contact channels
     </div>
   </div>
 </div>
-<div className="uk-section in-liquid-14 py-0">
+{/* <div className="uk-section in-liquid-14 py-0">
   <div className="uk-container mt-0 mb-0">
     <div className="uk-grid-large uk-flex uk-flex-middle" data-uk-grid>
       <div className="uk-width-expand@m">
@@ -265,78 +265,129 @@ to assist you via various contact channels
           {/* <div className="uk-tile uk-tile-default uk-visible@m">
             <p className="uk-text-lead uk-margin-remove-bottom">2.11M</p>
             <p className="uk-text-small uk-text-muted uk-margin-remove-top">Daily Avg Revenue</p>
-          </div> */}
+          </div>
         </div>
         {/* <a className="uk-button uk-button-text uk-border-rounded uk-margin-medium-top" href="#">Asset protection<i className="fas fa-angle-right uk-margin-small-left" /></a>
-        <p className="uk-text-small">For additional information view our Investors Relations - <a href="#">clicking here.</a></p> */}
+        <p className="uk-text-small">For additional information view our Investors Relations - <a href="#">clicking here.</a></p>
       </div>
       <div className="uk-width-1-2@m">
         <img className="uk-width-1-1 img_sheild"  src="/img/8.svg" data-src="img/in-liquid-object-5.svg" alt="sample-image" data-width data-height data-uk-img />
       </div>
     </div>
   </div>
+</div> */}
+<div className="uk-section in-liquid-15 in-offset-top-20 uk-background-contain uk-background-bottom-center" data-src="/assets/images/sec_home_2_bg.png" >
+  <div className="uk-container">
+    <div className="uk-grid uk-flex uk-flex-center">
+      <div className="uk-width-5-6@m">
+        <div className="uk-text-center">
+          <h2 className="uk-margin-remove">Market analysis and trade inspiration.</h2>
+          {/* <p className="uk-text-lead uk-text-muted uk-margin-small-top">Get news, commentary and actionable trade ideas from the expert analysts.</p> */}
+        </div>
+        <div className="uk-grid-small uk-child-width-1-2@s uk-child-width-1-4@m uk-margin-medium-top" data-uk-grid>
+          <div className="uk-width-1-2@s">
+            <div className="uk-inline-clip">
+              <a href="/affiliate-program">
+                <img className="uk-border-ro
+unded" src="/assets/images/affilate.jpg"  data-width data-height  />
+                <div className="uk-position-bottom uk-overlay uk-overlay-primary">
+                  <h4 className="uk-margin-remove">Affiliate Program</h4>
+                  <p className="uk-margin-remove uk-text-muted">As an affiliate, you don’t have to know forex or meet clients in person.</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div className="uk-width-1-2@s">
+            <div className="uk-inline-clip">
+              <a href="/white-label">
+                <img className="uk-border-rounded" src="/assets/images/wtl-solutions.jpg" data-width data-height  />
+                <div className="uk-position-bottom uk-overlay uk-overlay-primary">
+                  <h4 className="uk-margin-remove">White Label Solutions
+</h4>
+                  <p className="uk-margin-remove uk-text-muted">Customised Forex Trading solutions for your Brokerage Firm</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div>
+            <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
+              <div className="uk-flex uk-flex-middle">
+                <div className="uk-margin-small-right">
+                  <i className="in-icon-wrap circle small green">FX</i>
+                </div>
+                <div>
+                  <h6 className="uk-margin-remove">Currencies (FX)
+</h6>
+                </div>
+              </div>
+              <p>Currency trading, also known as FX or forex (foreign exchange) trading, enables traders to take advantage of increases and decreases in a currency’s value.</p>
+              <a href="/trading-currencies" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
+            </div>
+          </div>
+          <div>
+            <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
+              <div className="uk-flex uk-flex-middle">
+                <div className="uk-margin-small-right">
+                  <i className="in-icon-wrap circle small red">Spot</i>
+                </div>
+                <div>
+                  <h6 className="uk-margin-remove">Precious Metals (Spot)
+</h6>
+                </div>
+              </div>
+              <p>Trading precious metals is one of the most popular ways of diversifying your portfolio. Trade spot gold and spot silver prices against the US Dollar </p>
+              <a href="/precious-metals" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
+            </div>
+          </div>
+          <div>
+            <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
+              <div className="uk-flex uk-flex-middle">
+                <div className="uk-margin-small-right">
+                  <i className="in-icon-wrap circle small blue">CO</i>
+                </div>
+                <div>
+                  <h6 className="uk-margin-remove">Comodoties</h6>
+                </div>
+              </div>
+              <p>Trading CFDs on commodities like oil and gas is a great way to diversify your portfolio, and offers you access to those markets without having to purchase the product outright. </p>
+              <a href="/comodoties" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
+            </div>
+          </div>
+          <div>
+            <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
+              <div className="uk-flex uk-flex-middle">
+                <div className="uk-margin-small-right">
+                  <i className="in-icon-wrap circle small grey">CFD</i>
+                </div>
+                <div>
+                  <h6 className="uk-margin-remove">CFD Indices (Spot)
+</h6>
+                </div>
+              </div>
+              <p>An online CFD trading provides you to potentially profit or loss from the fluctuations of the price.The cost of CFD is based on the price of the underlying instrument </p>
+              <a href="/cfd-incdices" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
 <div className="uk-section uk-section-secondary in-liquid-10">
   <div className="uk-container uk-light">
-    <div className="uk-grid-medium uk-child-width-1-4@m uk-flex uk-flex-middle" data-uk-grid>
-      <div>
-        <h2>Account types</h2>
-        <p className="uk-text-lead">Explore different Account types to trade on your preferred market.</p>
-        <a className="uk-button uk-button-default uk-border-rounded uk-margin-top" href="#">Start trading<i className="fas fa-angle-right uk-margin-small-left" /></a>
-      </div>
-      <div>
-        <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
-          {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-16.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Cent Account</h3>
-          <p>Spreads Starts From 1 PIP</p>
-          <p>Minimum Deposit US$10</p>
-          <p>Trade Size 0.01 Lot</p>
-          <p>Max Leverage 1:500</p>
-          <p>Hedging Allowed</p>
-          <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
+    <div >
+      <div className='row'>
+        <div className='col-md-6'>
+            <h2>Discover our exciting </h2>
+            <h2>Offers and amazing</h2>
+            <h1 style={{color:'#2473b4'}}> Promotions of 2022</h1>
+            <a className="uk-button uk-button-default uk-border-rounded uk-margin-top" href="/no-deposit">Learn More<i className="fas fa-angle-right uk-margin-small-left" /></a>
+        </div>
+        <div className='col-md-6'>
+            <img src='/assets/images/promotionsectionhome.svg' style={{width:'100%'}} />
         </div>
       </div>
-      <div>
-        <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
-          {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-17.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Standard Account</h3>
-          <p>Spreads Starts From 1 PIP</p>
-          <p>Minimum Deposit US$50</p>
-          <p>Trade Size 0.01 Lot</p>
-          <p>Max Leverage 1:500</p>
-          <p>Hedging Allowed</p>
-          <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
-
-        </div>
-      </div>
-      <div>
-        <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
-          {/* <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-18.svg" alt="wave-award" width={72} height={72} data-uk-img /> */}
-          <h3 className="uk-margin-top">Trader Account</h3>
-          <p>Spreads Starts From 0.8 PIP</p>
-          <p>Minimum Deposit US$100</p>
-          <p>Trade Size 0.01 Lot</p>
-          <p>Max Leverage 1:500</p>
-          <p>Hedging Allowed</p>
-          <p>Zero Commission</p>
-          <a class="uk-button uk-button-text uk-align-center" href="#">Open Demo Account<i class="fas fa-angle-right uk-margin-small-left"></i></a>
-
-        </div>
-      </div>
-      {/* <div>
-        <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded uk-text-center">
-          <img className="uk-margin-small-bottom" src="img/in-lazy.gif" data-src="img/in-liquid-icon-18.svg" alt="wave-award" width={72} height={72} data-uk-img />
-          <h3 className="uk-margin-top">Scalpers</h3>
-          <p>Spreads Starts From 0.5 PIP</p>
-          <p>Minimum Deposit US$500</p>
-          <p>Trade Size 0.01 Lot</p>
-          <p>Max Leverage 1:500</p>
-          <p>Hedging Allowed</p>
-          <p>Zero Commission</p>
-        </div>
-      </div> */}
     </div>
   </div>
 </div>

@@ -67,7 +67,7 @@ import $ from 'jquery'
     const {activeAboutUs}=this.state
     return (
       <>
-        <Navbar className={this.state.landing ? "navbar-trans " : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
+        <Navbar className={this.state.landing ? "navbar-trans container" : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
             <div className={this.state.landing ? "navbar-trans container" : " navbar-bg container-fluid"} >
           <Navbar.Brand href="/" className="navBrand">
             <img

@@ -1,14 +1,15 @@
 .newPromoBg{
-    background-image: url("/assets/images/newPromoBg.png");
+    /* background-image: url("/assets/images/newPromoBg.png"); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height:750px;
     width: 100%;
     padding-top: 80px;
-    padding-left: 10vw;
+    /* padding-left: 10vw; */
    display: flex;
    align-items: center;
+   background: #212224;
 }
 .mt4Bg{
     background-image: url("/assets/images/mt4bg.png");
@@ -246,7 +247,7 @@
 .newPromoBg .perText{
     font: bolder 70px gothic !important  ;
 
-    color: #C70079;
+    color: #3f88fc;
 }
 .newPromoBg .titleLg{
     font-size: 40px;
@@ -256,7 +257,7 @@
     padding: 30px 0;
 }
 .newPromoBg .btnRegister{
-background-color: #9A397D;
+background-color: #3f88fc;
 border: none;
 padding: 10px 10px;
 font: bold 23px gothic;
@@ -275,7 +276,7 @@ color: #fff;
 }
 .promoUpto .contentSec .title{
     font: bolder 20px gothic ;
-    color: #C70079;
+    color: #3f88fc;
     margin-bottom: 30px;
     margin-top: 30px;
 }
@@ -370,7 +371,7 @@ color: #fff;
 }
 .promoDeposit .contentSec .number{
     font: bolder 100px gothic;
-    color: #C70079;
+    color: #3f88fc;
 
 }
 .promoDeposit  .img{
@@ -396,7 +397,7 @@ margin-top: 40px;
 .promoBonus{
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #5A3858;
+    background-color: #3f88fc;
 }
 
 .promoBonus .mainFlex{
@@ -421,7 +422,7 @@ color: #fff;
 margin-bottom: 20px;
 }
 .colorPromo{
-    color: #C70079;
+    color: #3f88fc;
 
 }
 /* promoTrade */
@@ -436,7 +437,7 @@ margin-bottom: 20px;
 }
 .promoTrade .contentSec .number{
     font: bolder 100px gothic;
-    color: #C70079;
+    color: #3f88fc;
 
 }
 .promoTrade  .img{
@@ -459,7 +460,7 @@ margin-top: 40px;
 }
 .promoTrade .getStarted{
     border: none;
-    background-color: #B41576;
+    background-color: #3f88fc;
     color: #fff;
     font: bold 20px gothic;
     padding: 10px 20px;
@@ -568,7 +569,7 @@ margin-top: 40px;
 
     .promoTrade .contentSec .number{
         font: bolder 20vw gothic;
-        color: #C70079;
+        color: #3f88fc;
 
     }
 
@@ -586,7 +587,7 @@ margin-top: 40px;
 
     .promoTrade .getStarted{
         border: none;
-        background-color: #B41576;
+        background-color: #3f88fc;
         color: #fff;
         font: bold 30px gothic;
         padding: 10px 20px;
