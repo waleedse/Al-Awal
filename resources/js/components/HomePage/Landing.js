@@ -277,7 +277,7 @@ to assist you via various contact channels
   </div>
 </div> */}
 <div className="uk-section in-liquid-15 in-offset-top-20 uk-background-contain uk-background-bottom-center" data-src="/assets/images/sec_home_2_bg.png" >
-  <div className="uk-container">
+  <div className="uk-container-fluid">
     <div className="uk-grid uk-flex uk-flex-center">
       <div className="uk-width-5-6@m">
         <div className="uk-text-center">
@@ -285,31 +285,43 @@ to assist you via various contact channels
           {/* <p className="uk-text-lead uk-text-muted uk-margin-small-top">Get news, commentary and actionable trade ideas from the expert analysts.</p> */}
         </div>
         <div className="uk-grid-small uk-child-width-1-2@s uk-child-width-1-4@m uk-margin-medium-top" data-uk-grid>
-          <div className="uk-width-1-2@s">
+          <div className="uk-width-1-3@s">
             <div className="uk-inline-clip">
               <a href="/affiliate-program">
                 <img className="uk-border-ro
 unded" src="/assets/images/affilate.jpg"  data-width data-height  />
                 <div className="uk-position-bottom uk-overlay uk-overlay-primary">
                   <h4 className="uk-margin-remove">Affiliate Program</h4>
-                  <p className="uk-margin-remove uk-text-muted">As an affiliate, you don’t have to know forex or meet clients in person.</p>
+                  <p className="uk-margin-remove uk-text-muted" style={{fontSize:'12px'}}>As an affiliate, you don’t have to know forex or meet clients in person.</p>
                 </div>
               </a>
             </div>
           </div>
-          <div className="uk-width-1-2@s">
+          <div className="uk-width-1-3@s">
             <div className="uk-inline-clip">
               <a href="/white-label">
                 <img className="uk-border-rounded" src="/assets/images/wtl-solutions.jpg" data-width data-height  />
                 <div className="uk-position-bottom uk-overlay uk-overlay-primary">
                   <h4 className="uk-margin-remove">White Label Solutions
 </h4>
-                  <p className="uk-margin-remove uk-text-muted">Customised Forex Trading solutions for your Brokerage Firm</p>
+                  <p className="uk-margin-remove uk-text-muted" style={{fontSize:'12px'}}>Customised Forex Trading solutions for your Brokerage Firm</p>
                 </div>
               </a>
             </div>
           </div>
-          <div>
+          <div className="uk-width-1-3@s">
+            <div className="uk-inline-clip">
+              <a href="/white-label">
+                <img className="uk-border-rounded" src="/assets/images/ti_bg12.png" data-width data-height  />
+                <div className="uk-position-bottom uk-overlay uk-overlay-primary">
+                  <h4 className="uk-margin-remove">IB Programs
+</h4>
+                  <p className="uk-margin-remove uk-text-muted" style={{fontSize:'12px'}}>As an Introducer, all you have to do is refer clients to Al Awal Markets and you will be rewarded for it.</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          {/* <div>
             <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
               <div className="uk-flex uk-flex-middle">
                 <div className="uk-margin-small-right">
@@ -323,8 +335,8 @@ unded" src="/assets/images/affilate.jpg"  data-width data-height  />
               <p>Currency trading, also known as FX or forex (foreign exchange) trading, enables traders to take advantage of increases and decreases in a currency’s value.</p>
               <a href="/trading-currencies" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
             </div>
-          </div>
-          <div>
+          </div> */}
+          {/* <div>
             <div className="uk-card uk-card-secondary uk-card-body uk-border-rounded">
               <div className="uk-flex uk-flex-middle">
                 <div className="uk-margin-small-right">
@@ -367,7 +379,7 @@ unded" src="/assets/images/affilate.jpg"  data-width data-height  />
               <p>An online CFD trading provides you to potentially profit or loss from the fluctuations of the price.The cost of CFD is based on the price of the underlying instrument </p>
               <a href="/cfd-incdices" className="uk-button uk-button-text uk-margin-small-top" style={{color:'#2473b4'}}>Read more<i className="fas fa-angle-right uk-margin-small-left" /></a>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </div>

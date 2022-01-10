@@ -67,7 +67,7 @@ import $ from 'jquery'
     const {activeAboutUs}=this.state
     return (
       <>
-        <Navbar className={this.state.landing ? "navbar-trans container" : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
+        <Navbar className={this.state.landing ? "navbar-trans " : " navbar-bg"} expand="lg" fixed={activeAboutUs?"top":""} >
             <div className={this.state.landing ? "navbar-trans container" : " navbar-bg container-fluid"} >
           <Navbar.Brand href="/" className="navBrand">
             <img
@@ -104,9 +104,9 @@ import $ from 'jquery'
               <AnalyticsDropDown />
                 {/* <PAMMsDropDown /> */}
               </HeaderIem>
-              <HeaderIem title="SOCIAL & PAMM" icon="https://img.icons8.com/external-becris-lineal-becris/26/ffffff/external-social-science-literary-genres-becris-lineal-becris.png">
+              {/* <HeaderIem title="SOCIAL & PAMM" icon="https://img.icons8.com/external-becris-lineal-becris/26/ffffff/external-social-science-literary-genres-becris-lineal-becris.png">
                 <PAMMsDropDown />
-              </HeaderIem>
+              </HeaderIem> */}
               {/* <HeaderIem title="SOCIAL TRADING">
                 <AboutUsDropDown />
               </HeaderIem> */}

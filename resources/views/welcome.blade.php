@@ -13,8 +13,8 @@
 
 
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="thumbnail" content="/assets/images/logo.png" />
-    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <meta name="thumbnail" content="/img/favicon.png" />
+    <link rel="shortcut icon" href="/img/favicon.png">
     <title>Al Awal Market</title>
     <!-- Font Awesome -->
     <!-- Fonts -->

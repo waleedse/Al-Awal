@@ -8,7 +8,7 @@ const NewPromo35PerB = () => {
             <div className='row'>
             <div className='col-md-6'>
                <div className='title'><span className='titleLg'>GET</span><br/>
-   <span className="perText"> 50%</span> <br/>No Deposit Bonus</div>
+   <span className="perText"> $50</span> <br/>No Deposit Bonus</div>
    <div className='title title2'>From Al Awal Markets</div>
    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
           <a href="/bonus-terms"> <div className='text'>*Terms and conditions apply</div></a></div>
