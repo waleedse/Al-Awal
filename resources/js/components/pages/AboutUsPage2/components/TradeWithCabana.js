@@ -133,25 +133,25 @@ export default TradeWithCabana;
 const SwapAccount=()=>{
     return <>  <div className="text px-4">Swap Free Accounts are available to all our clients</div>
 
-    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const LowSpread=()=>{
     return <>  <div className="text px-4">Our Spreads are lowest in the market</div>
 
-    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const FastDeposite=()=>{
     return <>  <div className="text px-4">Fast Deposit & Withdrawal Service</div>
 
-    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const MultiLang=()=>{
     return <>  <div className="text px-4">We offer personlised customer service round the clock</div>
 
-    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const FixedLeaverage=()=>{
     return <>  <div className="text px-4">We offer fixed Leverage to all our clients</div>
 
-    <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }

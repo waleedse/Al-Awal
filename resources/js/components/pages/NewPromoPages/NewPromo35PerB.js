@@ -10,7 +10,7 @@ const NewPromo35PerB = () => {
                <div className='title'><span className='titleLg'>GET</span><br/>
    <span className="perText"> $50</span> <br/>No Deposit Bonus</div>
    <div className='title title2'>From Al Awal Markets</div>
-   <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
+   <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
           <a href="/bonus-terms"> <div className='text'>*Terms and conditions apply</div></a></div>
 
           <div className='col-md-6'>
@@ -57,8 +57,8 @@ Sign up today and earn up to $50 No Deposit Bonus to your trading account.</div>
 via Al Awal Markets</div></div></div>
 <img src="/assets/images/promoNewacc.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 
-          <div className='btnFlex'><button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button>
-          <button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button>
+          <div className='btnFlex'><button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button>
+          <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button>
           </div>
                   </div>
 
@@ -113,14 +113,14 @@ account <br/>
               </div>
 
 
-              <div className="basicRow promoTrade col-md-6">
+              <div className="basicRow promoTrade promoOpenAcc col-md-6">
               <div className='mainFlex'>
                   <div className='contentSec'>
-                      <div className="textDiv"><div className="number">4</div><div className="title">Trade</div></div>
+                      <div className="textDiv"><div className="number">4</div><div className="title text-light">Trade</div></div>
 <img src="/assets/images/promoTrade.png" alt="promoNewacc" className='img d-block d-md-none'></img>
-<div className="text">Start trading on more<br/>
+<div className="text text-light">Start trading on more<br/>
 than 80 instruments</div>
-<button onClick={()=>{ window.open('https://client.alawalcapital.co.uk/#/auth/signup/','_self')}} className="getStarted">GET STARTED</button>
+<button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="getStarted">GET STARTED</button>
                   </div>
 
 

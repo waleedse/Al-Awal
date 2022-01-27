@@ -38,7 +38,7 @@ const OurLocationPage = () => {
             Vincent and the Grenadines
                 </span></div>
                 {/* <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 208 124 4440</div> */}
-                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  /> support@alawalcapital.co.uk</div>
+                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  />support@alawalmarkets.com</div>
                </div>
                {/* <div className="locationCard">
                    <div className='title'>Dubai</div>

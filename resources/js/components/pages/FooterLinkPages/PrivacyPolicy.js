@@ -59,7 +59,7 @@ For the analysis of statistical data which will help us provide you with better 
                 <div className='qTitle text-center'>7. Your Rights</div>
                 <div className="basicText">In compliance with the Data Protection Act, every user is granted a number of rights in relation to their Personal Data. These rights include accessing and/or amending your Personal Data, putting a stop to the processing of this data and preventing undesirable marketing. Al Awal Markets will ensure that your personal data is protected in compliance with the applicable Laws and Regulations for the protection of Personal Data.</div>
                 <div className='qTitle text-center'>8. Queries</div>
-                <div className="basicText">f you have any questions which have not been covered in this Privacy Policy, or any further concerns regarding the use of Personal Data, please do not hesitate to contact us through email at support@Al Awalcapitals.com or telephone at +44 1213681986.</div>
+                <div className="basicText">f you have any questions which have not been covered in this Privacy Policy, or any further concerns regarding the use of Personal Data, please do not hesitate to contact us through email at support@alawalmarkets.com.</div>
 
 
 

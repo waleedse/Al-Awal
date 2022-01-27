@@ -15,8 +15,8 @@ class Landing extends Component {
                                             <div className="uk-overlay mt-5">
                                                 <h1>World's leading Most Trusted <br/> Forex Broker.</h1>
                                                 <p className="uk-text-lead uk-visible@m">Trade forex, commodities, synthetic and stock indices from a single account</p>
-                                                <a href="https://client.alawalcapital.co.uk/#/auth/login" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
-                                                <a href="https://client.alawalcapital.co.uk/#/auth/signup" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
+                                                <a href="https://secure.alawalmarkets.com/#/auth/login" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
+                                                <a href="https://secure.alawalmarkets.com/#/auth/signup" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
                                             </div>
                                         </div>
                                         <div className="uk-width-1-2@s">
@@ -276,12 +276,12 @@ to assist you via various contact channels
     </div>
   </div>
 </div> */}
-<div className="uk-section in-liquid-15 in-offset-top-20 uk-background-contain uk-background-bottom-center" data-src="/assets/images/sec_home_2_bg.png" >
+<div className="uk-section in-liquid-15 in-offset-top-20 uk-background-contain uk-background-bottom-center mt-4 mb-5" style={{backgroundImage:"url('/assets/images/sec_home_2_bg.png')"}} data-src="/assets/images/sec_home_2_bg.png" >
   <div className="uk-container-fluid">
     <div className="uk-grid uk-flex uk-flex-center">
       <div className="uk-width-5-6@m">
         <div className="uk-text-center">
-          <h2 className="uk-margin-remove">Market analysis and trade inspiration.</h2>
+          <h2 className="uk-margin-remove" style={{fontSize:'42px', fontWeight:'800'}}> Market analysis and trade inspiration.</h2>
           {/* <p className="uk-text-lead uk-text-muted uk-margin-small-top">Get news, commentary and actionable trade ideas from the expert analysts.</p> */}
         </div>
         <div className="uk-grid-small uk-child-width-1-2@s uk-child-width-1-4@m uk-margin-medium-top" data-uk-grid>
@@ -311,7 +311,7 @@ unded" src="/assets/images/affilate.jpg"  data-width data-height  />
           </div>
           <div className="uk-width-1-3@s">
             <div className="uk-inline-clip">
-              <a href="/white-label">
+              <a href="/introducing-broker">
                 <img className="uk-border-rounded" src="/assets/images/ti_bg12.png" data-width data-height  />
                 <div className="uk-position-bottom uk-overlay uk-overlay-primary">
                   <h4 className="uk-margin-remove">IB Programs

@@ -9,7 +9,7 @@ export default class AboutUsDropDown extends Component {
             className="headerDropDownItemDiv offset-md-2"
             onClick={this.props.dropDownHandler}
           >
-            {/* <h5 className="headerDropDownTitle">ABOUT US</h5> */}
+            <h5 className="headerDropDownTitle">Find Out More About Us</h5>
             {/* <a href="/about-us">
               <div className="headerDropDownItem">News and Events</div>
             </a> */}
