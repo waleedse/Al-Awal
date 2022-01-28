@@ -16,7 +16,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/registration.svg" alt="card"></img></div>
               <h4 className="title">Register</h4>
-              <p className="text">Open your live trading account via Al Awal Capitala</p>
+              <p className="text">Open your live trading account via Al Awal Markets</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
@@ -33,7 +33,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/applyforib.svg" alt="card"></img></div>
               <h4 className="title">Apply For IB</h4>
-              <p className="text">Login to Al Awal Capitala
+              <p className="text">Login to Al Awal Markets
       and Apply to become an IB</p>
             </div>
           </div>
