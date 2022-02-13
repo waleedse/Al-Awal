@@ -154,7 +154,7 @@ import Landing from "./HomePage/Landing";
           <Route path="/faqs" component={Faq}></Route>
           <Route path="/protection-funds" component={ProtectionofFunds}></Route>
 
-          {/* <Route path="/mt4-platform" component={Mt4}></Route> */}
+          <Route path="/mt4-platform" component={Mt4}></Route>
           <Route path="/mt5-platform" component={Mt5}></Route>
           {/* <Route path="/promotion"  component={PromotionPage}></Route> */}
           <Route path="/no-deposit" component={NewPromo35PerB}></Route>

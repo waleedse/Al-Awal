@@ -35,7 +35,7 @@ export default class AccountDropDown extends Component {
             <a href="/mt5-platform">
               <div className="headerDropDownItem">MetaTrader 5</div>
             </a>
-            <a href="/mt4-platform"  className="opacityZero">
+            <a href="/mt4-platform"  className="">
 
               <div className="headerDropDownItem" >MetaTrader 4</div>
             </a>

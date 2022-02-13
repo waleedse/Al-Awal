@@ -23,7 +23,7 @@ export default class Footer extends Component {
               </p>
               <div className="footerSocialBox">
                 <div className="footerSocialCircle">
-                    <a href="/">
+                    <a href="https://www.facebook.com/alawalmarkets">
                   <img
                     src="/assets/images/socialIcon1.png"
                     alt="social"
@@ -31,7 +31,7 @@ export default class Footer extends Component {
                   ></img> </a>
                 </div>
                 <div className="footerSocialCircle">
-                <a href="/">
+                <a href="https://twitter.com/alawalmarkets?t=gcsiWMaCsdlVnGe4Q-wNlQ&s=03">
                   <img
                     src="/assets/images/socialIcon2.png"
                     alt="social"
@@ -39,7 +39,7 @@ export default class Footer extends Component {
                   ></img> </a>
                 </div>
                 <div className="footerSocialCircle">
-                <a href="/">
+                <a href="https://www.youtube.com/channel/UCuDTcQpT-l00-XiThIoC75w">
                   <img
                     src="/assets/images/socialIcon3.png"
                     alt="social"
@@ -65,7 +65,7 @@ export default class Footer extends Component {
             <p className="footerLinkText"> Privacy Policy</p>
 
             </a>
-            <a href="/risk-disclouser">
+            <a href="/assets/files/alawal-risk-disclosure.pdf" target="_blank">
             <p className="footerLinkText"> Risk Disclosure</p>
             </a>
             <a href="/instruction-security">
@@ -78,7 +78,7 @@ export default class Footer extends Component {
             <a href="/terms-and-condition">
               <p className="footerLinkText"> Terms and Conditions</p>
             </a>
-            <a href="/" target="_blank"  >
+            <a href="/assets/files/alawal-client-agreement.pdf" target="_blank"  >
             <p className="footerLinkText"> Client Agreement</p>
           </a>
 

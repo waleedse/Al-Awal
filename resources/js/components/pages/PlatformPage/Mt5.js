@@ -31,7 +31,7 @@ class Mt4 extends Component {
                         <div className="row py-5">
                             <div className="col-md-6 text-center">
                                 <h2 className="mt4title_">MetaTrader5</h2>
-                                <button onClick={()=>{ window.open('/','_self')}} className="btn download_mmt4">DOWNLOAD MT5 PLATFORM</button>
+                                <button onClick={()=>{ window.open('https://download.mql5.com/cdn/web/20676/mt4/alawal5setup.exe','_blank')}} className="btn download_mmt4">DOWNLOAD MT5 PLATFORM</button>
                                 <img className="mt4icons" src="/assets/images/mt4icons.png"></img>
                             </div>
                             <div className="col-md-6 text-center">
