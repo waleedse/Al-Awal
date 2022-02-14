@@ -548,6 +548,12 @@ footer .in-trading-risk {
         margin: 10px 0 5px;
         float: left;
     }
+    .in-slideshow img {
+        width: 65% !important;
+    }
+    .in-slideshow .uk-grid-medium .in-slide-img {
+        margin-top: 0px !important;
+    }
 }
 
 .in-widget-popular li {

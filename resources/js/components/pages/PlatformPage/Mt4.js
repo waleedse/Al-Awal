@@ -43,7 +43,11 @@ class Mt4 extends Component {
                             <div className="col-md-6 text-center">
                                 <h2 className="mt4title_">MetaTrader4</h2>
                                 <button onClick={()=>{ window.open('https://download.mql5.com/cdn/web/20676/mt4/alawal4setup.exe','_blank')}} className="btn download_mmt4">DOWNLOAD MT4 PLATFORM</button>
-                                <img className="mt4icons" src="/assets/images/mt4icons.png"></img>
+                               <div className='text-center'>
+                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt4/android?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons" src="/assets/images/android.png"></img></a>
+                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt4/ios?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons ml-2" src="/assets/images/apple.png"></img></a>
+                               </div>
+
                             </div>
                             <div className="col-md-6 ">
                                 <img className="mt4_graph"  src="/assets/images/mt4graph.png"></img>
