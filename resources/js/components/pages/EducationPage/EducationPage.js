@@ -29,7 +29,7 @@ export default class EducationPage extends Component {
                   <div className="col-md-4 col-sm-12 mb-3">
                     <div
                       className="termsCardBox card-1"
-                      style={{ padding: "30px", height: "150px" }}
+                      style={{ padding: "30px", height: "180px" }}
                     >
                       <div className="termsCardTitle">{item.title}</div>
                       <p className="termsCardText">{item.des}</p>
@@ -47,7 +47,7 @@ export default class EducationPage extends Component {
                   <div className="col-md-4 col-sm-12 mb-3">
                     <div
                       className="termsCardBox card-1"
-                      style={{ padding: "30px", height: "150px" }}
+                      style={{ padding: "30px", height: "180px" }}
                     >
                       <div className="termsCardTitle">{item.title}</div>
                       <p className="termsCardText">{item.des}</p>

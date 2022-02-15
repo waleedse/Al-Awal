@@ -11,7 +11,7 @@ export default class Refferal extends Component {
           >
             <h5 className="headerDropDownTitle">PARTNERSHIP PROGRAM</h5>
             <a href="/introducing-broker" className="headera">
-              <div className="headerDropDownItem">Inroducing Broker </div>
+              <div className="headerDropDownItem">Introducing Broker </div>
             </a>
             <a href="/affiliate-program" className="headera">
               <div className="headerDropDownItem">Affiliate Program</div>

@@ -24,42 +24,42 @@ export const eduIntermediateData = [
   {
     title: "Technical analysis",
     des:
-      "It’s actually easy to install Meta Trader4 and it’s available for a variety of operating systems.",
+      "Technical analysis is the study of a price movements, both past and present, with the goal of accurately predicting future market behavior",
   },
   {
     title: "Trading strategies",
     des:
-      "It means you can access a larger portion of the market with a smaller deposit than you would be able to via traditional investing.",
+      "A forex trading strategy defines a system that a forex trader uses to determine when to buy or sell a currency pair. ",
   },
   {
     title: "How to trade Forex",
     des:
-      "Learn how you can lessen your risk exposure by implementing various techniques into your strategy.",
+      "Select a currency pair. When trading forex you are exchanging the value of one currency for another",
   },
   {
     title: "Forex Trading Sessions",
     des:
-      "It’s actually easy to install Meta Trader4 and it’s available for a variety of operating systems.",
+      "The forex market can be broken up into four major trading sessions: the Sydney session, the Tokyo session, the London session",
   },
   {
     title: "An introduction to Forex Market",
     des:
-      "It means you can access a larger portion of the market with a smaller deposit than you would be able to via traditional investing.",
+      "The foreign exchange market (FX) is a decentralized market place that facilitates the buying and selling of different currencies. This takes place over the counter (OTC) instead of on a centralized exchange.",
   },
   {
     title: "Fundamental Analysis and Economic Indicators",
     des:
-      "Learn how you can lessen your risk exposure by implementing various techniques into your strategy.",
+      "Fundamental analysis in forex trading deals with various economic factors and their relative impact on the price value of the national currency",
   },
   {
     title: "How to start trading in 4 easy steps",
     des:
-      "It’s actually easy to install Meta Trader4 and it’s available for a variety of operating systems.",
+      "Register with Al Awal Markets, upload your documents to verify your account, Login to Al Awal Markets and fund your account. Start trading on more than 80 instruments.",
   },
   {
     title: "What are Moving Averages?",
     des:
-      "It means you can access a larger portion of the market with a smaller deposit than you would be able to via traditional investing.",
+      "A moving average is a technical analysis technique used in Forex trading and other markets, with the aim of smoothing price histories by average daily prices over a given period of time",
   },
 ];
 export const eduQuestionData1 = [
