@@ -23,7 +23,7 @@ const OurLocationPage = () => {
 
             <div className="title">Customer Support</div>
             <div className="text">For any enquiries call or whatsapp us .</div>
-            {/* <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#fff"  /> +44 208 124 4440</div> */}
+            <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#fff"  /> +44 (0) 203 900 2800</div>
             <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#fff"  /> support@alawalmarkets.com
 </div>
            </div>
@@ -37,7 +37,7 @@ const OurLocationPage = () => {
                    Beachmont, P.O.Box 1510, Kingstown St.<br/>
             Vincent and the Grenadines
                 </span></div>
-                {/* <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 208 124 4440</div> */}
+                <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 (0) 203 900 2800</div>
                 <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  />support@alawalmarkets.com</div>
                </div>
                {/* <div className="locationCard">
