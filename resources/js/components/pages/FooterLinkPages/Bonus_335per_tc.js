@@ -6,61 +6,38 @@ import TradingComponent from '../LandingPage/components/TradingComponent';
 const Bonus_335per_tc = () => {
     return (
         <div>
-            <HeroSection title="35% Trading Bonus" text="Al Awal Markets brings a whopping 35% trading bonus (up to $1000) to your trading account deposit." />
+            <HeroSection title="$50 NO DEPOSIT WELCOME BONUS" text="Al Awal Markets brings a whopping $50 No DEposit Welcome bonus to your trading account deposit.
+
+" />
             <div className=' footerLinkPage'>
                 <div className="basicRow">
                  <div className='basciText'>
                  <h2 className="text-center">Terms & Conditions</h2>
                  <br></br>
-1.	Subject to, and without prejudice to, all other Business Terms and Policies, the offer is available to Al Awal Markets Clients who have satisfied the Eligibility Criteria for the offer (“Eligible Clients”) as set out in the sections following hereinafter.
-<br></br>  <br></br>
-2.	Only persons who can form legally binding contracts under the laws applicable in their country of residence may participate in the “Cash Back Promotion”. Without limiting the foregoing, participation in the “Cash Back Promotion” is not allowed for persons under the age of 18 or otherwise under legal age in their country of residence ("minors"). If you are a minor, you may not participate in the “Cash Back Promotion”.
-<br></br>  <br></br>
-3.	The Al Awal Markets “35% Trading Bonus” Terms & Conditions are applicable to all Clients of Al Awal Markets who are approved, are eligible to trade and:
-<br></br>
-•	Run a live trading account  with Al Awal Markets as per the applicable Minimum Account Activation Deposit and/or other requirements of Al Awal Markets, and subject to the present 35% Trading Bonus T&Cs;
-<br></br>
-•	Read and Accept the 35% Trading Bonus T&Cs; and
-<br></br>
-•	Make deposit(s) following (b) above
-<br></br>  <br></br>
-4.	The Trading Bonus is applicable on Micro, Active Trader, Standard, Premium and Elite account types.
-<br></br>  <br></br>
-5.	This promotion cannot be combined with any other promotion, if applicable on any above mentioned account.
-<br></br><br></br>
-6.	35% trading bonus will be applied on initial deposits followed by a 20% trading bonus on all subsequent deposits.
-<br></br>  <br></br>7.	Deposit bonus is available to verified clients only.
-<br></br>
-8.	The Bonus is not applicable on internal transfer or any transfer from other client or IB account.
-<br></br>  <br></br>9.	The Deposit Bonus will be credited to your account within 24 hours after the deposit.
-<br></br>  <br></br>
-The Trading Bonus will be available to your account till the balance is positive, however, if the balance becomes negative you will have 48 hours for deposit to continue with bonus, else it will credit out without prior information or notice.
-<br></br>Example:
-<br></br>Client A deposits $1,000 and receives a bonus of $350, if the balance goes into (Minus) -$1 or less, the client will have 48 hours for deposit to continue with bonus.
+                  <br></br> •	The No Deposit Bonus Account is for introductory purposes only for new clients.
+                 <br></br> •	The No Deposit Bonus Account is not available in China, Hong Kong, Canada and US
+                 <br></br> •	Expert Advisors (EA’s) are not allowed on No Deposit Bonus Account
+                  <br></br> •	Existing Clients cannot apply for No Deposit Bonus Account
+                 <br></br> •	No Deposit Bonus Account is applicable on Standard account type only
+                  <br></br> •	The No Deposit Bonus will be automatically credited to your account within 24 hours. In case it is not credited in the specified time, please email us on support@alawalmarkets.com
+ <br></br> •	The No Deposit Bonus Account is available for trading for 30 days from the day of opening. Trading will be disabled after that but No Deposit Bonus Account will still be accessible for an additional 30 days to claim the earned profit.
+ <br></br> •	Alawal Markets reserves the right to reject a bonus request or block the No Deposit Bonus Account, if there is a partial or complete match of IP address or other signs of No Deposit Bonus Account belonging to the same person.
+ <br></br> •	The initial No Deposit Bonus deposit cannot be withdrawn or transferred from the No Deposit Bonus Account
+ <br></br> •	A maximum of $50 of profit can be transferred from the No Deposit Bonus Account to a live MT4/MT5 trading account (Standard Account)
+ <br></br> •	Each client can make only one request to transfer the profit from the No Deposit Bonus Account to a live MT4/MT5 trading account.
+ <br></br> •	In order to make a transfer of profit from the No Deposit Bonus Account to a live MT4/MT5 account, the Client must:
+o	Provide the necessary identification documents required to validate the Client Area account
+o	Open another live MT4/MT5 trading account inside the Client Area and deposit a minimum of $50
+o	After a deposit is made to a live MT4/MT5 account, the Client should contact Alawal Markets back office via email (support@alawalmarkets.com) and request to transfer the profit from the No Deposit Bonus Account to the live MT4/MT5 Account.
 
-
-<br></br>  <br></br>
-If the trader’s own funds withdrawn after bonus has been received, the bonus will be cancelled.
-<br></br>Example:
-<br></br>If you deposit $1,000 to your account, bonus will be $350, your equity becomes $1,350. You will need to maintain that equity upon withdrawal or transfer. In case it goes below $1,350 then bonus would be cancelled. However, if you make profit you can withdraw it anytime and it will not affect your bonus.
-<br></br>  <br></br>10.	The Bonus cannot be withdrawn.
-<br></br>  <br></br>11.	A client can cancel bonus at any time. Once deposit bonus is cancelled, it can’t be reinstated.
-<br></br>  <br></br>12.	Deposit, Withdrawal and Trade holding time is in conjunction with the trading terms of Al Awal Markets.
-<br></br>  <br></br>13.	Bonus hedging strictly prohibited internally or externally if any client found abusing the bonus, it will be cancelled at the same time and all deals placed will be declared null and void.
-<br></br>  <br></br>14.	Any suspicious activity including hedging, arbitrage is not allowed and can cause suspension of trading on the suspected account.
-<br></br>  <br></br>15.	You may receive a call from Your Account Manager at Al Awal Markets for the verification process
-<br></br>  <br></br>16.	Al Awal Markets may cancel a client’s bonus at any time without prior notification.
-<br></br>  <br></br>17.	Any situation not described in these rules shall be subject to the Company’s Decision.
-<br></br>  <br></br>18.	Al Awal Markets reserves the right to change, update or cancel this promotion. The client will be notified via email or will be announced on the Website’s promotion menu.
-<br></br>  <br></br>19.	Offer is valid for only in African Countries.
-<br></br>  <br></br>20.	In the event of any dispute or misinterpretation of the above applicable 35% Trading Bonus terms & conditions, such dispute or misinterpretation shall be resolved by Al Awal Markets, acting in good faith and as it shall, in its sole and absolute discretion, deem fit and proper. Al Awal Capital’s decision shall be final and binding.
-<br></br>  <br></br>21.	Al Awal Markets has the right to disqualify any client who has accepted the current terms & conditions if:
-<br></br>•	A breach of these terms & conditions and/or of any term of the Operative Agreements occurs;
-<br></br>•	Al Awal Markets has reasonable grounds to believe a misuse of the 35% Trading Bonus terms & conditions;
-<br></br>•	The Client acts in bad faith and/or abusively and/or fraudulently and/or in a manner that is not in the spirit of the current 35% Trading Bonus terms & conditions.
-<br></br>  <br></br>22.	Al Awal Markets has the right to alter the terms & conditions at its discretion. Al Awal Markets may suspend or terminate the current terms & conditions if a situation arises where the conditions are unfair for more participants. Al Awal Markets has the right to suspend or terminate the current terms & conditions if its continuation is rendered impossible due to extraordinary circumstances beyond the control of Al Awal Markets (natural disasters, political conflicts etc.).
-<br></br>  <br></br>23.	By accepting the current terms & conditions, the client acknowledges that he has read and agreed to be bound by these back terms & conditions together with the operative agreements as well as to all other business terms and conditions as these may be applicable and/or amended from time to time.
-<br></br>  <br></br>24.	Notwithstanding the translated language of this document, the English wording shall be the binding version in the event of any discrepancy between the two languages.
+ <br></br> •	Once the profit transfer is completed, the No Deposit Bonus Account will be disabled and no further trading will be possible in that account.
+ <br></br> •	The profit of the No Deposit Bonus Account will be added to the balance of the live trading account and would be available for withdrawal after completion of 1.0 standard lot. The trades must be open for at least 2 minutes.
+ <br></br> •	No deposits can be made to the No Deposit Bonus Account
+ <br></br> •	Alawal Markets reserves the right to disqualify any user, if there is a suspicion of misuse or abuse of fair rules
+ <br></br> •	Hedging trading positions internally (using other trading accounts held with Alawal Markets) or externally (using other trading accounts held with other brokers) to avoid market risk is not allowed.
+ <br></br> •	Alawal Markets reserves the right to change the terms of the Campaign or complete the offer after specific period of time.
+ <br></br> •	Clients agree that information provided during the registration process may be used by the Company both within the context of the No Deposit Bonus Account Campaign and for any other marketing purposes.
+ <br></br> •	This promotion will run up to 31st  May 2022
 
                 </div>
                 </div>
