@@ -198,10 +198,10 @@ import HeaderMobileLastDropDown from "./HeaderComp/HeaderMobileLastDropDown";
                         return;
                       }}
                     >
-                           {/* <Link to="/mt4-platform">
+                           <Link to="/mt4-platform">
 
                         <div className="sideBarItem">MetaTrader 4</div>
-                        </Link> */}
+                        </Link>
                         <Link to="/mt5-platform">
                         <div className="sideBarItem">MetaTrader 5</div>
                         </Link>

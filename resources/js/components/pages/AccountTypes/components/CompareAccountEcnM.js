@@ -6,8 +6,8 @@ class CompareAccountEcnM extends Component {
            <>
            <div className="col-4 px-0 standardM compareAccountDetail">
                <div className="compareAccountBgM borderRightBlack">
-               <h4 className="compareAccountInfoTitle text-black ">Trader</h4>
-               <p className="compareAccountPrice text-black">$100/min</p>
+               <h4 className="compareAccountInfoTitle text-black ">Platinum</h4>
+               <p className="compareAccountPrice text-black">$200/min</p>
               </div>
               <h4 className="platformText pt-0 mb-0">MetaTrader 5</h4>
                <h4 className="platformText mb-3">MetaTrader 4</h4>
@@ -22,13 +22,13 @@ class CompareAccountEcnM extends Component {
               <h4 className="title d-inine "><span className="opacityZero">CURRENCY</span></h4>
             <h2 className="compareAccountNorMobText mt-3">USD</h2>
               <h4 className="title d-inine "><span className="opacityZero">Spread</span></h4>
-              <p className="compareAccountNorMobText">From 0.6</p>
+              <p className="compareAccountNorMobText">From .0</p>
               <h4 className="title d-inine "><span className="opacityZero">Commission Markup</span></h4>
-              <h2 className="compareAccountNorMobText"> Nil</h2>
+              <h2 className="compareAccountNorMobText"> $7</h2>
               <h4 className="title d-inine "><span className="opacityZero">Minimum Deposit</span></h4>
-              <h2 className="compareAccountNorMobText"> $100</h2>
+              <h2 className="compareAccountNorMobText"> $200</h2>
               <h4 className="title d-inine "><span className="opacityZero">Leverage</span></h4>
-              <h2 className="compareAccountNorMobText"> Up to 1:500 for currencies</h2>
+              <h2 className="compareAccountNorMobText"> Up to 1:200 for currencies</h2>
               <h4 className="title d-inine "><span className="opacityZero">Instruments</span></h4>
              <h2 className="compareAccountNorMobText">  Majors, Minors, Spot Metals - 2, Spot Energy - 2, US30, Dax 30</h2>
              <h4 className="title d-inine "><span className="opacityZero">SWAP</span></h4>
@@ -61,7 +61,7 @@ class CompareAccountEcnM extends Component {
            <div className="col-4 px-0 standardM compareAccountDetail">
                <div className="compareAccountBgM borderRightBlack">
                <h4 className="compareAccountInfoTitle text-black ">ECN</h4>
-               <p className="compareAccountPrice text-black">$200/min</p>
+               <p className="compareAccountPrice text-black">$1000/min</p>
 
 
               </div>
@@ -78,8 +78,8 @@ class CompareAccountEcnM extends Component {
             <h2 className="compareAccountNorMobText mt-3">USD</h2>
               <h4 className="title d-inine "><span className="">Spread</span></h4>
               <p className="compareAccountNorMobText">From 0.0</p>
-              <h4 className="title d-inine "><span className="">Commission Markup</span></h4>
-              <h2 className="compareAccountNorMobText"> $7</h2>
+              <h4 className="title d-inine "><span className="">Commission </span></h4>
+              <h2 className="compareAccountNorMobText"> $5</h2>
               <h4 className="title d-inine "><span className="">Minimum Deposit</span></h4>
               <h2 className="compareAccountNorMobText"> $500</h2>
               <h4 className="title d-inine "><span className="">Leverage</span></h4>
