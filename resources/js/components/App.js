@@ -165,7 +165,7 @@ import Landing from "./HomePage/Landing";
           <Route path="/regulatory-compliance" component={CompliancePage}></Route>
           <Route path="/privacy-policy" component={PrivacyPolicy}></Route>
           <Route path="/risk-disclouser" component={RiskPage}></Route>
-          {/* <Route path="/instruction-security" component={SafetyOfFunds}></Route> */}
+          <Route path="/instruction-security" component={SafetyOfFunds}></Route>
           <Route path="/terms-and-condition" component={TermsAndCondition}></Route>
           <Route
             path="/deposite-withdraw"
