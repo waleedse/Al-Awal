@@ -65,6 +65,10 @@ export default class Footer extends Component {
             <p className="footerLinkText"> Privacy Policy</p>
 
             </a>
+            <a href="/kyc-policy">
+            <p className="footerLinkText"> KYC Policy</p>
+
+            </a>
             <a href="/assets/files/alawal-risk-disclosure.pdf" target="_blank">
             <p className="footerLinkText"> Risk Disclosure</p>
             </a>

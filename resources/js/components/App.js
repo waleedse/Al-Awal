@@ -55,6 +55,8 @@ import Axios from "axios";
 import StrategyManage from "./pages/PAMM/StrategyManage";
 import Bonus_335per_tc from "./pages/FooterLinkPages/bonus_335per_tc";
 import Terms_Refer from "./pages/FooterLinkPages/Terms_Refer";
+import Kyc_policy from "./pages/FooterLinkPages/Kyc_policy";
+
 import DefaultPage from "./DefaultPage";
 import NavBar from "./HomePage/NavBar";
 import Landing from "./HomePage/Landing";
@@ -175,6 +177,8 @@ import Landing from "./HomePage/Landing";
           <Route path="/strategy-manager" component={StrategyManage} />
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
           <Route path="/refer-terms" component={Terms_Refer} />
+          <Route path="/kyc-policy" component={Kyc_policy} />
+
           <Route  component={DefaultPage} />
           </Switch>
         <Footer />
