@@ -67,8 +67,8 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9741007175009421"
-     crossorigin="anonymous"></script>
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9741007175009421"
+     crossorigin="anonymous"></script> -->
 <!-- Swap Free -->
 <ins class="adsbygoogle"
      style="display:block"

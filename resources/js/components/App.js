@@ -60,6 +60,8 @@ import Kyc_policy from "./pages/FooterLinkPages/Kyc_policy";
 import DefaultPage from "./DefaultPage";
 import NavBar from "./HomePage/NavBar";
 import Landing from "./HomePage/Landing";
+import BadieidPromotion from "./pages/NewPromoPages/BadieidPromotion";
+import BadiEidTerms from "./pages/FooterLinkPages/badiEidTerms";
 
  class App extends Component {
   // state
@@ -178,6 +180,8 @@ import Landing from "./HomePage/Landing";
           <Route path="/bonus-terms" component={Bonus_335per_tc} />
           <Route path="/refer-terms" component={Terms_Refer} />
           <Route path="/kyc-policy" component={Kyc_policy} />
+          <Route path="/badi-eid-promotion" component={BadieidPromotion} />
+          <Route path="/badi-eid-promotion-terms" component={BadiEidTerms} />
 
           <Route  component={DefaultPage} />
           </Switch>
