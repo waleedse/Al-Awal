@@ -15,8 +15,8 @@ class Landing extends Component {
                                             <div className="uk-overlay mt-5">
                                                 <h1>World's leading Most Trusted <br/> Forex Broker.</h1>
                                                 <p className="uk-text-lead uk-visible@m">Trade forex, commodities, synthetic and stock indices from a single account</p>
-                                                <a href="https://my.alawalmarkets.com/en/login" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
-                                                <a href="https://my.alawalmarkets.com/en/register" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
+                                                <a href="https://my.alawalmarkets.net/login" className="uk-button uk-button-default uk-border-rounded  mr-2">Login</a>
+                                                <a href="https://my.alawalmarkets.net/register" class="uk-button uk-button-default uk-border-rounded">Create Account</a>
                                             </div>
                                         </div>
                                         <div className="uk-width-1-2@s">

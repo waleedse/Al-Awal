@@ -17,7 +17,7 @@ export default class LandingSliderSection extends Component {
             sliders:[
               {
                 image:'183531banner1.png',
-                content: '<div class="container"><div class="row trueRow"><div class="col-12 pt-5 "><h1 class="trueTitle">Al Awal Markets </h1><p class="trueDescription">Most Trusted ECN Broker <br/>ECN Spreads from 0.1 pips</p><div class="trueButtonBox"><a href="https://my.alawalmarkets.com/en/login">      <button  class="btnLogin">LOG IN</button> </a><a href="https://my.alawalmarkets.com/en/register">     <button class="btnSignUp">SIGN UP</button></a></div></div></div></div>',
+                content: '<div class="container"><div class="row trueRow"><div class="col-12 pt-5 "><h1 class="trueTitle">Al Awal Markets </h1><p class="trueDescription">Most Trusted ECN Broker <br/>ECN Spreads from 0.1 pips</p><div class="trueButtonBox"><a href="https://my.alawalmarkets.net/login">      <button  class="btnLogin">LOG IN</button> </a><a href="https://my.alawalmarkets.net/register">     <button class="btnSignUp">SIGN UP</button></a></div></div></div></div>',
               }
             ]
         }

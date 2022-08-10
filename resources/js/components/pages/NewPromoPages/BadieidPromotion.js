@@ -10,7 +10,7 @@ const BadieidPromotion = () => {
                <div className='title'><span className='titleLg'>Al Awal Markets </span><br/>
      <span className="perText"> Eid Gift Offer </span> </div>
    <div className='title title2'>for all its clients</div>
-   <button onClick={()=>{ window.open('https://my.alawalmarkets.com/en/register','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
+   <button onClick={()=>{ window.open('https://my.alawalmarkets.net/register','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
           <a href="/badi-eid-promotion-terms"> <div className='text'>*Terms and conditions apply</div></a></div>
 
           <div className='col-md-6'>
